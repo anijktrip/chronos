@@ -39,6 +39,42 @@ There are no redirect rules to configure: the app uses hash routing, so deep lin
 
 The header, mobile menu and footer carry an EN / ΕΛ switch. The choice is stored in the browser (`chronos:lang`) and the page reloads in the chosen language, keeping the `#/route`. First visit: Greek if the browser language is Greek, otherwise English. UI strings live in `src/i18n/el/*` (English text is the key); Greek content overlays live in `src/data/el/*`. Run `npx tsx scripts/check-i18n.ts` to see any untranslated UI string.
 
+## If the build fails
+
+**`TS18003: No inputs were found in config file … tsconfig.json … Specified 'include' paths were ["src"]`** (or the message `INCOMPLETE UPLOAD` from the `prebuild` check) means the repository is missing source files: the `src/` folder has no `.ts` / `.tsx` files. The configuration is not at fault. It almost always happens when the project is uploaded through the GitHub **web uploader**, which accepts at most 100 files at a time and silently skips the rest (this project has about 700 files).
+
+Check on GitHub that your repository has at least these (open each folder and look at the file count):
+
+| Folder | Files | What it holds |
+|---|---|---|
+| `src/` (top level) | 4 | `App.tsx`, `main.tsx`, `index.css`, `vite-env.d.ts` |
+| `src/components/` | 31 | UI components (sub-folders `ui`, `layout`, `timeline`, `graph`, `quiz`, `home`, `templates`, `artists`, `works`) |
+| `src/pages/` | 14 | one file per screen |
+| `src/data/` | 53 | content (including `src/data/el/` for Greek) and the JSON data files |
+| `src/i18n/` | 11 | UI strings (English and Greek) |
+| `src/lib/` | 7 | `repo.ts`, `graph.ts`, `search.ts` … |
+| `src/types/` | 1 | `index.ts` |
+| `src/assets/fonts/` | 4 | Albert Sans and Aeonik Pro |
+| `src/assets/hero/` · `portraits/` · `art/` | 65 · 274 · 202 | images |
+| `scripts/` | 22 | data scripts (not needed for the build) |
+
+**How to upload the whole project reliably** (pick one):
+
+1. **GitHub Desktop** (no command line): *File → Add local repository…* and choose the project folder (answer "create a repository" if asked), write a commit message, then *Publish repository* and choose your GitHub account. It uploads every file, in one go.
+2. **Command line**, from inside the project folder:
+   ```bash
+   git init
+   git add .
+   git commit -m "Chronos"
+   git branch -M main
+   git remote add origin https://github.com/<you>/<repo>.git
+   git push -u origin main
+   ```
+   If the repository already contains a partial upload, add `--force` to the last command (`git push -u --force origin main`) so that it is replaced by the complete project.
+3. If you must use the web uploader, upload folder by folder in batches of fewer than 100 files (for example `src/components`, then `src/data`, then `src/pages` …, and `src/assets/art`, `src/assets/portraits` in several parts), and check the file counts in the table above.
+
+After pushing, Cloudflare Pages starts a new build by itself (or choose *Retry deployment*).
+
 ## Continuing development with Claude (from another account)
 
 Everything needed is inside this folder: source, data, images, fonts, build configuration and the notes in `CLAUDE.md` (which Claude Code reads automatically). Nothing depends on a particular Claude session.

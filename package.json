@@ -6,6 +6,7 @@
   "description": "Chronos — an interactive platform for global art history (prototype)",
   "scripts": {
     "dev": "vite",
+    "prebuild": "node -e \"const fs=require('fs');const need=['src/main.tsx','src/App.tsx','src/index.css','src/types/index.ts','src/assets/fonts/AlbertSans-Variable.ttf','src/assets/fonts/AeonikPro-Regular.otf'];const miss=need.filter(function(f){return !fs.existsSync(f)});const ts=fs.existsSync('src')?fs.readdirSync('src',{recursive:true}).filter(function(f){return f.endsWith('.ts')||f.endsWith('.tsx')}).length:0;if(miss.length||ts<100){console.error('\\n*** INCOMPLETE UPLOAD ***\\nsrc/ has '+ts+' TypeScript files (about 114 expected).'+(miss.length?'\\nMissing: '+miss.join(', '):'')+'\\nUpload the complete project with git or GitHub Desktop: the GitHub web uploader silently drops files beyond 100 per upload. See README.md, section If the build fails.\\n');process.exit(1)}\"",
     "build": "tsc --noEmit && vite build",
     "typecheck": "tsc --noEmit",
     "preview": "vite preview",

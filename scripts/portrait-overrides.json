@@ -1,0 +1,50 @@
+{
+  "artist-hokusai": {
+    "file": "Portrait of Hokusai by Keisai Eisen.jpg",
+    "note": "Portrait of Hokusai by his pupil Keisai Eisen."
+  },
+  "artist-hiroshige": {
+    "file": "Utagawa Kunisada - Memorial Portrait of Hiroshige.jpg",
+    "note": "Memorial portrait by Utagawa Kunisada, made after Hiroshige’s death in 1858."
+  },
+  "artist-leonardo": {
+    "file": "A portrait of Leonardo, by Francesco Melzi.jpg",
+    "note": "Red-chalk portrait attributed to Francesco Melzi, Leonardo’s pupil, c. 1515–18."
+  },
+  "artist-durer": {
+    "file": "Albrecht Dürer - 1500 self-portrait (High resolution and detail).jpg",
+    "note": "Self-portrait of 1500 (the same painting catalogued as an artwork)."
+  },
+  "artist-rembrandt": {
+    "file": "Rembrandt van Rijn - Self-Portrait (1659).jpg",
+    "note": "Self-portrait of 1659."
+  },
+  "artist-monet": {
+    "file": "Claude Monet 1899 Nadar crop.jpg",
+    "note": "Photograph by Nadar, 1899."
+  },
+  "artist-van-gogh": {
+    "file": "Vincent van Gogh - Self-Portrait - Google Art Project.jpg",
+    "note": "Self-portrait, 1889."
+  },
+  "artist-picasso": {
+    "file": "Pablo Picasso, 1904, Paris, photograph by Ricard Canals i Llambí cropped.jpg",
+    "note": "Photograph by Ricard Canals i Llambí, Paris, 1904."
+  },
+  "artist-braque": {
+    "file": "Georges Braque, 1908, photograph published in Gelett Burgess, The Wild Men of Paris, Architectural Record, May 1910.jpg",
+    "note": "Photograph of 1908, published in 1910."
+  },
+  "artist-douglas": {
+    "file": "Aaron Douglas by Edwin Harleston (51419).jpg",
+    "note": "Portrait of Aaron Douglas by Edwin Harleston, 1930."
+  },
+  "artist-lawrence": {
+    "file": "Portrait of Jacob Lawrence LCCN2004663191.jpg",
+    "note": "Photograph by Carl Van Vechten, Library of Congress."
+  },
+  "artist-bichitr": {
+    "file": "Details of the self-portrait of Bichitr (close-up of the Mughal miniature painting \"Jahangir preferring a Sufi Shaikh to Kings\", c. 1615-18).png",
+    "note": "Self-portrait detail from the painting Jahangir Preferring a Sufi Shaikh to Kings, c. 1615–18."
+  }
+}

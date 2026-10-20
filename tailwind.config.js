@@ -1,0 +1,58 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{ts,tsx}'],
+  theme: {
+    extend: {
+      colors: {
+        paper: 'rgb(var(--paper) / <alpha-value>)',
+        surface: 'rgb(var(--surface) / <alpha-value>)',
+        sunk: 'rgb(var(--sunk) / <alpha-value>)',
+        ink: 'rgb(var(--ink) / <alpha-value>)',
+        muted: 'rgb(var(--muted) / <alpha-value>)',
+        rule: 'rgb(var(--rule) / <alpha-value>)',
+        night: 'rgb(var(--night) / <alpha-value>)',
+        accent: 'rgb(var(--accent) / <alpha-value>)',
+        volt: 'rgb(var(--volt) / <alpha-value>)',
+        'f-tradition': 'rgb(var(--f-tradition) / <alpha-value>)',
+        'f-movement': 'rgb(var(--f-movement) / <alpha-value>)',
+        'f-style': 'rgb(var(--f-style) / <alpha-value>)',
+        'f-school': 'rgb(var(--f-school) / <alpha-value>)',
+        'f-collective': 'rgb(var(--f-collective) / <alpha-value>)',
+        'f-artist': 'rgb(var(--f-artist) / <alpha-value>)',
+        'f-artwork': 'rgb(var(--f-artwork) / <alpha-value>)',
+        'f-event': 'rgb(var(--f-event) / <alpha-value>)',
+        'f-exchange': 'rgb(var(--f-exchange) / <alpha-value>)',
+        'f-theme': 'rgb(var(--f-theme) / <alpha-value>)',
+        'f-place': 'rgb(var(--f-place) / <alpha-value>)',
+        'f-period': 'rgb(var(--f-period) / <alpha-value>)',
+        onfill: 'rgb(var(--onfill) / <alpha-value>)',
+        lean: 'rgb(var(--lean) / <alpha-value>)',
+        heat: 'rgb(var(--heat) / <alpha-value>)',
+        // entity accents — each passes 4.5:1 on white as text and carries white text as a fill
+        tradition: 'rgb(var(--c-tradition) / <alpha-value>)',
+        movement: 'rgb(var(--c-movement) / <alpha-value>)',
+        style: 'rgb(var(--c-style) / <alpha-value>)',
+        school: 'rgb(var(--c-school) / <alpha-value>)',
+        collective: 'rgb(var(--c-collective) / <alpha-value>)',
+        artist: 'rgb(var(--c-artist) / <alpha-value>)',
+        artwork: 'rgb(var(--c-artwork) / <alpha-value>)',
+        event: 'rgb(var(--c-event) / <alpha-value>)',
+        exchange: 'rgb(var(--c-exchange) / <alpha-value>)',
+        theme: 'rgb(var(--c-theme) / <alpha-value>)',
+        place: 'rgb(var(--c-place) / <alpha-value>)',
+        period: 'rgb(var(--c-period) / <alpha-value>)',
+      },
+      fontFamily: {
+        // Aeonik Pro (body/UI) and Albert Sans (titles). `serif` is kept as an alias so older markup follows the title face.
+        sans: ['"Aeonik Pro"', 'system-ui', 'sans-serif'],
+        display: ['"Albert Sans"', '"Aeonik Pro"', 'system-ui', 'sans-serif'],
+        serif: ['"Albert Sans"', '"Aeonik Pro"', 'system-ui', 'sans-serif'],
+      },
+      // The supplied Aeonik cut has Light and Regular only: never request (or fake) heavier weights.
+      fontWeight: { medium: '400', semibold: '400', bold: '400' },
+      maxWidth: { page: '1500px', prose: '40rem' },
+      borderRadius: { '4xl': '2rem' },
+    },
+  },
+  plugins: [],
+}

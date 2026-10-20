@@ -39,9 +39,32 @@ There are no redirect rules to configure: the app uses hash routing, so deep lin
 
 The header, mobile menu and footer carry an EN / ΕΛ switch. The choice is stored in the browser (`chronos:lang`) and the page reloads in the chosen language, keeping the `#/route`. First visit: Greek if the browser language is Greek, otherwise English. UI strings live in `src/i18n/el/*` (English text is the key); Greek content overlays live in `src/data/el/*`. Run `npx tsx scripts/check-i18n.ts` to see any untranslated UI string.
 
+## Replacing the contents of an existing GitHub repository
+
+If the repository already exists (for example connected to Cloudflare Pages) and you want it to hold exactly this project:
+
+**With GitHub Desktop (no command line)**
+1. *File → Clone repository…* and choose your repository; Desktop copies it to a folder on your computer.
+2. Open that folder in Finder / Explorer and **delete everything inside it except the hidden `.git` folder** (do not delete `.git`).
+3. Copy **all of this project's files** into the folder (the files inside the project folder, not the project folder itself). Check that `src/` holds sub-folders `components`, `data`, `pages`, `i18n`, `lib`, `types`, `assets`.
+4. Back in GitHub Desktop you will see hundreds of changed files. Write a summary such as "Complete Chronos project", press **Commit to main**, then **Push origin**.
+5. Cloudflare Pages builds automatically. The build log should show `Project check passed: 114 TypeScript files, 202 artwork images.`
+
+**With git on the command line**, from inside this project's folder:
+```bash
+git init
+git add .
+git commit -m "Complete Chronos project"
+git branch -M main
+git remote add origin https://github.com/<you>/<repo>.git
+git push -u --force origin main     # --force replaces what is in the repository
+```
+
+If this project came as several ZIP files, extract all of them **into the same folder** (merge, do not overwrite with a smaller copy) before step 3. On the command line: `unzip -o part1.zip -d chronos && unzip -o part2.zip -d chronos`.
+
 ## If the build fails
 
-**`TS18003: No inputs were found in config file … tsconfig.json … Specified 'include' paths were ["src"]`** (or the message `INCOMPLETE UPLOAD` from the `prebuild` check) means the repository is missing source files: the `src/` folder has no `.ts` / `.tsx` files. The configuration is not at fault. It almost always happens when the project is uploaded through the GitHub **web uploader**, which accepts at most 100 files at a time and silently skips the rest (this project has about 700 files).
+**`TS18003: No inputs were found in config file … tsconfig.json … Specified 'include' paths were ["src"]`** (or the message `INCOMPLETE UPLOAD` from the `prebuild` check in `check-project.mjs`) means the repository is missing source files: the `src/` folder has no `.ts` / `.tsx` files. The configuration is not at fault. It almost always happens when the project is uploaded through the GitHub **web uploader**, which accepts at most 100 files at a time and silently skips the rest (this project has about 700 files).
 
 Check on GitHub that your repository has at least these (open each folder and look at the file count):
 
@@ -57,6 +80,7 @@ Check on GitHub that your repository has at least these (open each folder and lo
 | `src/assets/fonts/` | 4 | Albert Sans and Aeonik Pro |
 | `src/assets/hero/` · `portraits/` · `art/` | 65 · 274 · 202 | images |
 | `scripts/` | 22 | data scripts (not needed for the build) |
+| root | 14 | `index.html`, `package.json`, `package-lock.json`, `tsconfig.json`, `vite.config.ts`, `vite.artifact.config.ts`, `tailwind.config.js`, `postcss.config.js`, `check-project.mjs`, `README.md`, `CLAUDE.md`, `DATA-AUDIT.md`, `.gitignore`, `.node-version` |
 
 **How to upload the whole project reliably** (pick one):
 

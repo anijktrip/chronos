@@ -1,0 +1,1977 @@
+{
+  "artist-leonardo": {
+    "file": "A portrait of Leonardo, by Francesco Melzi.jpg",
+    "credit": "Attributed to Francesco Melzi, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:A_portrait_of_Leonardo%2C_by_Francesco_Melzi.jpg",
+    "ratio": 0.695,
+    "note": "Red-chalk portrait attributed to Francesco Melzi, Leonardo’s pupil, c. 1515–18."
+  },
+  "artist-durer": {
+    "file": "Albrecht Dürer - 1500 self-portrait (High resolution and detail).jpg",
+    "credit": "Albrecht Dürer, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_1500_self-portrait_(High_resolution_and_detail).jpg",
+    "ratio": 0.723,
+    "note": "Self-portrait of 1500 (the same painting catalogued as an artwork)."
+  },
+  "artist-rembrandt": {
+    "file": "Rembrandt van Rijn - Self-Portrait (1659).jpg",
+    "credit": "Rembrandt, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn_-_Self-Portrait_(1659).jpg",
+    "ratio": 0.759,
+    "note": "Self-portrait of 1659."
+  },
+  "artist-monet": {
+    "file": "Claude Monet 1899 Nadar crop.jpg",
+    "credit": "Nadar, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Claude_Monet_1899_Nadar_crop.jpg",
+    "ratio": 0.75,
+    "note": "Photograph by Nadar, 1899."
+  },
+  "artist-van-gogh": {
+    "file": "Vincent van Gogh - Self-Portrait - Google Art Project.jpg",
+    "credit": "Vincent van Gogh, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg",
+    "ratio": 0.822,
+    "note": "Self-portrait, 1889."
+  },
+  "artist-picasso": {
+    "file": "Pablo Picasso, 1904, Paris, photograph by Ricard Canals i Llambí cropped.jpg",
+    "credit": "Ricard Canals i Llambí, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Pablo_Picasso%2C_1904%2C_Paris%2C_photograph_by_Ricard_Canals_i_Llamb%C3%AD_cropped.jpg",
+    "ratio": 0.795,
+    "note": "Photograph by Ricard Canals i Llambí, Paris, 1904."
+  },
+  "artist-braque": {
+    "file": "Georges Braque, 1908, photograph published in Gelett Burgess, The Wild Men of Paris, Architectural Record, May 1910.jpg",
+    "credit": "Photographer non-identified, anonymous, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Georges_Braque%2C_1908%2C_photograph_published_in_Gelett_Burgess%2C_The_Wild_Men_of_Paris%2C_Architectural_Record%2C_May_1910.jpg",
+    "ratio": 0.711,
+    "note": "Photograph of 1908, published in 1910."
+  },
+  "artist-hokusai": {
+    "file": "Portrait of Hokusai by Keisai Eisen.jpg",
+    "credit": "Keisai Eisen, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Hokusai_by_Keisai_Eisen.jpg",
+    "ratio": 0.703,
+    "note": "Portrait of Hokusai by his pupil Keisai Eisen."
+  },
+  "artist-hiroshige": {
+    "file": "Utagawa Kunisada - Memorial Portrait of Hiroshige.jpg",
+    "credit": "Utagawa Kunisada, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Utagawa_Kunisada_-_Memorial_Portrait_of_Hiroshige.jpg",
+    "ratio": 0.688,
+    "note": "Memorial portrait by Utagawa Kunisada, made after Hiroshige’s death in 1858."
+  },
+  "artist-bichitr": {
+    "file": "Details of the self-portrait of Bichitr (close-up of the Mughal miniature painting \"Jahangir preferring a Sufi Shaikh to Kings\", c. 1615-18).png",
+    "credit": "Bichitr, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Details_of_the_self-portrait_of_Bichitr_(close-up_of_the_Mughal_miniature_painting_%22Jahangir_preferring_a_Sufi_Shaikh_to_Kings%22%2C_c._1615-18).png",
+    "ratio": 1.091,
+    "note": "Self-portrait detail from the painting Jahangir Preferring a Sufi Shaikh to Kings, c. 1615–18."
+  },
+  "artist-douglas": {
+    "file": "Aaron Douglas by Edwin Harleston (51419).jpg",
+    "credit": "Rhododendrites, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Aaron_Douglas_by_Edwin_Harleston_(51419).jpg",
+    "ratio": 0.845,
+    "note": "Portrait of Aaron Douglas by Edwin Harleston, 1930."
+  },
+  "artist-lawrence": {
+    "file": "Portrait of Jacob Lawrence LCCN2004663191.jpg",
+    "credit": "Carl Van Vechten, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Jacob_Lawrence_LCCN2004663191.jpg",
+    "ratio": 0.633,
+    "note": "Photograph by Carl Van Vechten, Library of Congress."
+  },
+  "artist-pollock": {
+    "file": "Jackson Pollock by Hans Namuth.jpg",
+    "credit": "Hans Namuth, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jackson_Pollock_by_Hans_Namuth.jpg",
+    "ratio": 0.75
+  },
+  "artist-michelangelo-buonarroti": {
+    "file": "Michelangelo Daniele da Volterra (dettaglio).jpg",
+    "credit": "Attributed to Daniele da Volterra, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Michelangelo_Daniele_da_Volterra_(dettaglio).jpg",
+    "ratio": 0.863,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-raphael": {
+    "file": "Raffaello Sanzio.jpg",
+    "credit": "Raphael, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio.jpg",
+    "ratio": 0.733,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-titian": {
+    "file": "Vecellio di Gregorio Tiziano - autoritratto.jpg",
+    "credit": "Titian, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Vecellio_di_Gregorio_Tiziano_-_autoritratto.jpg",
+    "ratio": 0.736,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-hieronymus-bosch": {
+    "file": "Jheronimus Bosch (cropped).jpg",
+    "credit": "Attributed to Jacques Le Boucq, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jheronimus_Bosch_(cropped).jpg",
+    "ratio": 0.857,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-hans-holbein-the-younger": {
+    "file": "Hans Holbein the Younger, self-portrait.jpg",
+    "credit": "Hans Holbein the Younger, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger%2C_self-portrait.jpg",
+    "ratio": 0.732,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-lucas-cranach-the-elder": {
+    "file": "Lucas Cranach d. Ä. 063.jpg",
+    "credit": "Lucas Cranach the Younger, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d._%C3%84._063.jpg",
+    "ratio": 0.761,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-sofonisba-anguissola": {
+    "file": "Sofonisba Anguissola, Selvportræt ved staffeliet, 1556, Museum Castle in Łańcut.jpg",
+    "credit": "Sofonisba Anguissola, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Sofonisba_Anguissola%2C_Selvportr%C3%A6t_ved_staffeliet%2C_1556%2C_Museum_Castle_in_%C5%81a%C5%84cut.jpg",
+    "ratio": 0.861,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-artemisia-gentileschi": {
+    "file": "Artemisia Gentileschi Selfportrait Martyr.jpg",
+    "credit": "Artemisia Gentileschi, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_Selfportrait_Martyr.jpg",
+    "ratio": 0.745,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-caravaggio": {
+    "file": "Bild-Ottavio Leoni, Caravaggio.jpg",
+    "credit": "Ottavio Leoni, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Bild-Ottavio_Leoni%2C_Caravaggio.jpg",
+    "ratio": 0.716,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-gian-lorenzo-bernini": {
+    "file": "Gian Lorenzo Bernini, self-portrait, c1623.jpg",
+    "credit": "Gian Lorenzo Bernini, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg",
+    "ratio": 0.769,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-peter-paul-rubens": {
+    "file": "Sir Peter Paul Rubens - Portrait of the Artist - Google Art Project.jpg",
+    "credit": "Peter Paul Rubens, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Sir_Peter_Paul_Rubens_-_Portrait_of_the_Artist_-_Google_Art_Project.jpg",
+    "ratio": 0.717,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-anthony-van-dyck": {
+    "file": "Sir Anthony van Dyck - Self-portrait.jpg",
+    "credit": "Anthony van Dyck, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Sir_Anthony_van_Dyck_-_Self-portrait.jpg",
+    "ratio": 0.789,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-diego-velazquez": {
+    "file": "Diego Velázquez Autorretrato 45 x 38 cm - Colección Real Academia de Bellas Artes de San Carlos - Museo de Bellas Artes de Valencia.jpg",
+    "credit": "Diego Velázquez, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg",
+    "ratio": 0.845,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-francisco-de-zurbaran": {
+    "file": "Francisco de Zurbarán autoportrait.jpg",
+    "credit": "Francisco de Zurbarán, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Francisco_de_Zurbar%C3%A1n_autoportrait.jpg",
+    "ratio": 0.818,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-bartolome-esteban-murillo": {
+    "file": "Murillo Self-portrait.jpg",
+    "credit": "Bartolomé Esteban Murillo, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Murillo_Self-portrait.jpg",
+    "ratio": 0.833,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-nicolas-poussin": {
+    "file": "Nicolas Poussin 078.jpg",
+    "credit": "Nicolas Poussin, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Poussin_078.jpg",
+    "ratio": 0.768,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-judith-leyster": {
+    "file": "Self-portrait by Judith Leyster.jpg",
+    "credit": "Judith Leyster, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Self-portrait_by_Judith_Leyster.jpg",
+    "ratio": 0.876,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-rachel-ruysch": {
+    "file": "Portrait of Rachel Ruysch by Godfried Schalcken.jpg",
+    "credit": "Godfried Schalcken, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Rachel_Ruysch_by_Godfried_Schalcken.jpg",
+    "ratio": 0.867,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-jean-antoine-watteau": {
+    "file": "(Treviso) The painter Antoine Watteau by Rosalba Carriera - Museo civico di Santa Caterina.jpg",
+    "credit": "Rosalba Carriera (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:(Treviso)_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg",
+    "ratio": 0.783,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-francois-boucher": {
+    "file": "Boucher par Gustav Lundberg 1741.jpg",
+    "credit": "Gustaf Lundberg, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Boucher_par_Gustav_Lundberg_1741.jpg",
+    "ratio": 0.784,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-jean-honore-fragonard": {
+    "file": "Jean-Honoré Fragonard self-portrait.jpg",
+    "credit": "Jean-Honoré Fragonard, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jean-Honor%C3%A9_Fragonard_self-portrait.jpg",
+    "ratio": 0.764,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-elisabeth-vigee-le-brun": {
+    "file": "Self-portrait in a Straw Hat by Elisabeth-Louise Vigée-Lebrun.jpg",
+    "credit": "Élisabeth Louise Vigée Le Brun, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Self-portrait_in_a_Straw_Hat_by_Elisabeth-Louise_Vig%C3%A9e-Lebrun.jpg",
+    "ratio": 0.72,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-jacques-louis-david": {
+    "file": "David Self Portrait.jpg",
+    "credit": "Jacques-Louis David, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:David_Self_Portrait.jpg",
+    "ratio": 0.713,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-jean-auguste-dominique-ingres": {
+    "file": "Ingres, Self-portrait.jpg",
+    "credit": "Jean-Auguste-Dominique Ingres, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ingres%2C_Self-portrait.jpg",
+    "ratio": 0.804,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-antonio-canova": {
+    "file": "Antonio Canova Selfportrait 1792.jpg",
+    "credit": "Antonio Canova, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Antonio_Canova_Selfportrait_1792.jpg",
+    "ratio": 0.802,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-francisco-goya": {
+    "file": "Vicente López Portaña - el pintor Francisco de Goya.jpg",
+    "credit": "Vicente López Portaña, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg",
+    "ratio": 0.811,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-eugene-delacroix": {
+    "file": "Autoportrait - Eugène Delacroix - Musée du Louvre Peintures RF 25.jpg",
+    "credit": "Eugène Delacroix, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg",
+    "ratio": 0.82,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-theodore-gericault": {
+    "file": "Horace Vernet, Jean-Louis-André-Théodore Gericault, probably 1822 or 1823, 1998.84, MET.jpg",
+    "credit": "Horace Vernet, via Wikimedia Commons",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg",
+    "ratio": 0.813,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-caspar-david-friedrich": {
+    "file": "Caspar David Friedrich, Selvportræt, 1800, KKSgb5006, Statens Museum for Kunst.jpg",
+    "credit": "Caspar David Friedrich, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich%2C_Selvportr%C3%A6t%2C_1800%2C_KKSgb5006%2C_Statens_Museum_for_Kunst.jpg",
+    "ratio": 0.662,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-j-m-w-turner": {
+    "file": "Joseph Mallord William Turner auto-retrato.jpg",
+    "credit": "J. M. W. Turner, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_auto-retrato.jpg",
+    "ratio": 0.769,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-john-constable": {
+    "file": "John Constable by Daniel Gardner, 1796.JPG",
+    "credit": "Stephencdickson (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Constable_by_Daniel_Gardner%2C_1796.JPG",
+    "ratio": 0.665,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-william-blake": {
+    "file": "William Blake by Thomas Phillips.jpg",
+    "credit": "Thomas Phillips, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:William_Blake_by_Thomas_Phillips.jpg",
+    "ratio": 0.779,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-henry-fuseli": {
+    "file": "Henry fuseli por James Northcote 1778.jpg",
+    "credit": "James Northcote, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Henry_fuseli_por_James_Northcote_1778.jpg",
+    "ratio": 0.831,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-gustave-courbet": {
+    "file": "Gustave Courbet, photograph Atelier Nadar, c. 1860s.jpg",
+    "credit": "Nadar, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Gustave_Courbet%2C_photograph_Atelier_Nadar%2C_c._1860s.jpg",
+    "ratio": 0.675,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-jean-francois-millet": {
+    "file": "Jean-FrancoisMillet(Nadar).jpg",
+    "credit": "Nadar, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jean-FrancoisMillet(Nadar).jpg",
+    "ratio": 0.789,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-honore-daumier": {
+    "file": "Honore Daumier-Nadar.jpg",
+    "credit": "Nadar, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Honore_Daumier-Nadar.jpg",
+    "ratio": 0.748,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-edouard-manet": {
+    "file": "Édouard Manet, en buste, de face - Nadar.jpg",
+    "credit": "Nadar / Adam Cuerden, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg",
+    "ratio": 0.752,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-pierre-auguste-renoir": {
+    "file": "Pierre Auguste Renoir, uncropped image.jpg",
+    "credit": "UnknownUnknown Musée d'Orsay, Dist. RMN-Grand Palais / Patrice Schmidt, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Pierre_Auguste_Renoir%2C_uncropped_image.jpg",
+    "ratio": 0.807
+  },
+  "artist-edgar-degas": {
+    "file": "Edgar Degas self portrait 1855FXD.jpg",
+    "credit": "Edgar Degas, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_self_portrait_1855FXD.jpg",
+    "ratio": 0.793,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-camille-pissarro": {
+    "file": "Pissarro-portrait-c1900.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Pissarro-portrait-c1900.jpg",
+    "ratio": 0.75,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-berthe-morisot": {
+    "file": "Morisot berthe photo.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Morisot_berthe_photo.jpg",
+    "ratio": 0.599
+  },
+  "artist-mary-cassatt": {
+    "file": "1914 Mary Cassatt.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1914_Mary_Cassatt.jpg",
+    "ratio": 0.75
+  },
+  "artist-alfred-sisley": {
+    "file": "Pierre-Auguste Renoir 110.jpg",
+    "credit": "Pierre-Auguste Renoir, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_110.jpg",
+    "ratio": 0.802,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-gustave-caillebotte": {
+    "file": "Caillebotteautoportrait.jpg",
+    "credit": "Gustave Caillebotte, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Caillebotteautoportrait.jpg",
+    "ratio": 0.786
+  },
+  "artist-georges-seurat": {
+    "file": "Georges Seurat 1888 (cropped).jpg",
+    "credit": "Unidentified photographer, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_1888_(cropped).jpg",
+    "ratio": 0.678
+  },
+  "artist-paul-cezanne": {
+    "file": "Paul-Cezanne.jpg",
+    "credit": "Unknown; Cézanne was born in 1839 and died in 1906, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul-Cezanne.jpg",
+    "ratio": 0.75,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-paul-gauguin": {
+    "file": "Paul Gauguin 1891.png",
+    "credit": "Louis-Maurice Boutet de Monvel, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_1891.png",
+    "ratio": 0.788
+  },
+  "artist-henri-de-toulouse-lautrec": {
+    "file": "Photolautrec.jpg",
+    "credit": "Paul Sescau, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Photolautrec.jpg",
+    "ratio": 0.595
+  },
+  "artist-emile-bernard": {
+    "file": "Henri de Toulouse-Lautrec - Portrait de Émile Bernard.jpg",
+    "credit": "Henri de Toulouse-Lautrec, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Henri_de_Toulouse-Lautrec_-_Portrait_de_%C3%89mile_Bernard.jpg",
+    "ratio": 0.826
+  },
+  "artist-odilon-redon": {
+    "file": "Odilon Redon vers 1880.jpg",
+    "credit": "Guy et Mockel (Pierre Mockel), via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Odilon_Redon_vers_1880.jpg",
+    "ratio": 0.768
+  },
+  "artist-edvard-munch": {
+    "file": "Edvard Munch 1933-2.jpg",
+    "credit": "Anders Beer Wilse, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_1933-2.jpg",
+    "ratio": 0.698
+  },
+  "artist-gustav-klimt": {
+    "file": "Klimt.jpg",
+    "credit": "Josef Anton Trčka, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Klimt.jpg",
+    "ratio": 0.783
+  },
+  "artist-egon-schiele": {
+    "file": "Egon Schiele photo.jpg",
+    "credit": "unattributed, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Egon_Schiele_photo.jpg",
+    "ratio": 0.72
+  },
+  "artist-james-mcneill-whistler": {
+    "file": "James A. McNeill Whistler, half-length portrait LCCN2002736830 (detail).jpg",
+    "credit": "Miscellaneous Items in High Demand, PPOC, Library of Congress, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:James_A._McNeill_Whistler%2C_half-length_portrait_LCCN2002736830_(detail).jpg",
+    "ratio": 0.705,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-john-singer-sargent": {
+    "file": "John Singer Sargent 1903.jpg",
+    "credit": "James E. Purdy, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Singer_Sargent_1903.jpg",
+    "ratio": 0.75
+  },
+  "artist-winslow-homer": {
+    "file": "Winslow Homer by Sarony.jpeg",
+    "credit": "Napoleon Sarony, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Winslow_Homer_by_Sarony.jpeg",
+    "ratio": 0.721,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-henri-matisse": {
+    "file": "Portrait of Henri Matisse 1933 May 20.jpg",
+    "credit": "Carl Van Vechten, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Henri_Matisse_1933_May_20.jpg",
+    "ratio": 0.764
+  },
+  "artist-juan-gris": {
+    "file": "Juan Gris, portrait photograph, published in Les Peintres Cubistes, 1913.jpg",
+    "credit": "Guillaume Apollinaire, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Juan_Gris%2C_portrait_photograph%2C_published_in_Les_Peintres_Cubistes%2C_1913.jpg",
+    "ratio": 0.72
+  },
+  "artist-fernand-leger": {
+    "file": "Fernand Léger.jpg",
+    "credit": "Carl Van Vechten, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernand_L%C3%A9ger.jpg",
+    "ratio": 0.688
+  },
+  "artist-robert-delaunay": {
+    "file": "Robert Delaunay portrait photograph.jpg",
+    "credit": "AnonymousUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Robert_Delaunay_portrait_photograph.jpg",
+    "ratio": 1.333
+  },
+  "artist-sonia-delaunay": {
+    "file": "Sonia Delaunay portrait photograph.jpg",
+    "credit": "AnonymousUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Sonia_Delaunay_portrait_photograph.jpg",
+    "ratio": 0.651
+  },
+  "artist-andre-derain": {
+    "file": "André Derain 1928.jpg",
+    "credit": "Agence de presse Meurisse, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Derain_1928.jpg",
+    "ratio": 0.768
+  },
+  "artist-maurice-de-vlaminck": {
+    "file": "Maurice de Vlaminck en 1942.jpg",
+    "credit": "AnonymousUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Maurice_de_Vlaminck_en_1942.jpg",
+    "ratio": 0.669
+  },
+  "artist-wassily-kandinsky": {
+    "file": "Wassily kandinsky.jpg",
+    "credit": "未知上傳者, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Wassily_kandinsky.jpg",
+    "ratio": 0.691
+  },
+  "artist-franz-marc": {
+    "file": "Franz Marc 1913 cropped.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Franz_Marc_1913_cropped.jpg",
+    "ratio": 1
+  },
+  "artist-august-macke": {
+    "file": "Macke, August - Selbstbildnis 1906.jpg",
+    "credit": "August Macke, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Macke%2C_August_-_Selbstbildnis_1906.jpg",
+    "ratio": 0.672
+  },
+  "artist-gabriele-munter": {
+    "file": "Image-GabrieleMuenter.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Image-GabrieleMuenter.jpg",
+    "ratio": 0.774
+  },
+  "artist-paul-klee": {
+    "file": "Paul Klee 1911.jpg",
+    "credit": "Alexander Eliasberg, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Klee_1911.jpg",
+    "ratio": 0.723
+  },
+  "artist-ernst-ludwig-kirchner": {
+    "file": "Ernst Ludwig Kirchner - Selbstporträt in der Atelierwohnung in Berlin-Friedenau (1913-15).jpg",
+    "credit": "Ernst Ludwig Kirchner, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ernst_Ludwig_Kirchner_-_Selbstportr%C3%A4t_in_der_Atelierwohnung_in_Berlin-Friedenau_(1913-15).jpg",
+    "ratio": 0.989
+  },
+  "artist-emil-nolde": {
+    "file": "WP Emil Nolde.jpg",
+    "credit": "Minya Diez-Dührkoop (* 21. Juni 1873; † 17. November 1929), deutsche Fotografin, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:WP_Emil_Nolde.jpg",
+    "ratio": 0.709
+  },
+  "artist-kathe-kollwitz": {
+    "file": "Käthe Kollwitz by Hugo Erfurth, 1927.jpg",
+    "credit": "Hugo Erfurth, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:K%C3%A4the_Kollwitz_by_Hugo_Erfurth%2C_1927.jpg",
+    "ratio": 0.759
+  },
+  "artist-oskar-kokoschka": {
+    "file": "Oskar Kokoschka by Hugo Erfurth 1919.jpg",
+    "credit": "Hugo Erfurth, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Oskar_Kokoschka_by_Hugo_Erfurth_1919.jpg",
+    "ratio": 0.795
+  },
+  "artist-amedeo-modigliani": {
+    "file": "Amedeo Modigliani 1918 restored.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Amedeo_Modigliani_1918_restored.jpg",
+    "ratio": 0.769
+  },
+  "artist-constantin-brancusi": {
+    "file": "Edward Steichen - Brancusi.jpg",
+    "credit": "Edward Steichen, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Edward_Steichen_-_Brancusi.jpg",
+    "ratio": 0.805
+  },
+  "artist-umberto-boccioni": {
+    "file": "Emilio Sommariva (1883 - 1956) Ritratto del pittore Umberto Boccioni (1914).jpg",
+    "credit": "it:Emilio Sommariva, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Emilio_Sommariva_(1883_-_1956)_Ritratto_del_pittore_Umberto_Boccioni_(1914).jpg",
+    "ratio": 0.747
+  },
+  "artist-gino-severini": {
+    "file": "Gino Severini.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Gino_Severini.jpg",
+    "ratio": 0.763
+  },
+  "artist-kazimir-malevich": {
+    "file": "Casimir Malevich photo.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Casimir_Malevich_photo.jpg",
+    "ratio": 0.652
+  },
+  "artist-el-lissitzky": {
+    "file": "El lissitzky self portrait 1924.jpg",
+    "credit": "El Lissitzky, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:El_lissitzky_self_portrait_1924.jpg",
+    "ratio": 0.713
+  },
+  "artist-vladimir-tatlin": {
+    "file": "Татлин.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B0%D1%82%D0%BB%D0%B8%D0%BD.jpg",
+    "ratio": 0.724
+  },
+  "artist-alexander-rodchenko": {
+    "file": "1935-alexander rodschenko.jpg",
+    "credit": "Isaak Brodsky, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1935-alexander_rodschenko.jpg",
+    "ratio": 1.18
+  },
+  "artist-lyubov-popova": {
+    "file": "Lyubov Popova.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Lyubov_Popova.jpg",
+    "ratio": 0.662
+  },
+  "artist-natalia-goncharova": {
+    "file": "Natalia Sergeyevna Goncharova.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Natalia_Sergeyevna_Goncharova.jpg",
+    "ratio": 0.735
+  },
+  "artist-mikhail-larionov": {
+    "file": "Mikhail Fyodorovich Larionov.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Mikhail_Fyodorovich_Larionov.jpg",
+    "ratio": 0.679
+  },
+  "artist-piet-mondrian": {
+    "file": "Piet Mondriaan.jpg",
+    "credit": "AnonymousUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Piet_Mondriaan.jpg",
+    "ratio": 0.748
+  },
+  "artist-theo-van-doesburg": {
+    "file": "Theo van Doesburg in military service.JPG",
+    "credit": "Anonymous (Netherlands)Unknown author circa 1915date QS:P,+1915-00-00T00:00:00Z/9,P1480,Q5727902, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_in_military_service.JPG",
+    "ratio": 0.837
+  },
+  "artist-gerrit-rietveld": {
+    "file": "Gerrit Thomas Rietveld.jpg",
+    "credit": "Oscar at Dutch Wikipedia (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Gerrit_Thomas_Rietveld.jpg",
+    "ratio": 0.798
+  },
+  "artist-marcel-duchamp": {
+    "file": "Marcel Duchamp 01.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Marcel_Duchamp_01.jpg",
+    "ratio": 0.679
+  },
+  "artist-francis-picabia": {
+    "file": "Francis Picabia, photograph published in Les Peintres Cubistes, 1913.jpg",
+    "credit": "Guillaume Apollinaire, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Francis_Picabia%2C_photograph_published_in_Les_Peintres_Cubistes%2C_1913.jpg",
+    "ratio": 0.828
+  },
+  "artist-kurt-schwitters": {
+    "file": "Kurt Schwitters.JPG",
+    "credit": "Genja Jonas, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Kurt_Schwitters.JPG",
+    "ratio": 0.698
+  },
+  "artist-jean-arp": {
+    "file": "Hans Arp.JPG",
+    "credit": "Original uploader was Vincent Steenberg at nl.wikipedia, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Hans_Arp.JPG",
+    "ratio": 0.699
+  },
+  "artist-tristan-tzara": {
+    "file": "Tristan Tzara.jpg",
+    "credit": "original author: unknown; cropped and retouched by: Rlevente (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Tristan_Tzara.jpg",
+    "ratio": 0.75
+  },
+  "artist-laszlo-moholy-nagy": {
+    "file": "László Moholy-Nagy by Hugo Erfurth, c. 1930 .jpg",
+    "credit": "Hugo Erfurth, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:L%C3%A1szl%C3%B3_Moholy-Nagy_by_Hugo_Erfurth%2C_c._1930_.jpg",
+    "ratio": 0.702
+  },
+  "artist-anni-albers": {
+    "file": "Anni Albers, Tapestry, 1948. Handwoven linen and.jpg",
+    "credit": "J R (CC BY 2.0), via Wikimedia Commons",
+    "licence": "CC BY 2.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Anni_Albers%2C_Tapestry%2C_1948._Handwoven_linen_and.jpg",
+    "ratio": 1.136
+  },
+  "artist-josef-albers": {
+    "file": "Josef Albers.jpg",
+    "credit": "Jthill84 (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Josef_Albers.jpg",
+    "ratio": 0.668
+  },
+  "artist-salvador-dali": {
+    "file": "Salvador Dalí 1939.jpg",
+    "credit": "Van Vechten, Carl, 1880-1964., via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Salvador_Dal%C3%AD_1939.jpg",
+    "ratio": 0.779
+  },
+  "artist-rene-magritte": {
+    "file": "René Magritte in 1961.jpg",
+    "credit": "Unknown authorUnknown author Restored by Giovanni Cardinali, via Wikimedia Commons",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ren%C3%A9_Magritte_in_1961.jpg",
+    "ratio": 0.759
+  },
+  "artist-max-ernst": {
+    "file": "Max Ernst 1968.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Max_Ernst_1968.jpg",
+    "ratio": 0.752
+  },
+  "artist-joan-miro": {
+    "file": "Joan Miro (cropped).jpg",
+    "credit": "Carl Van Vechten, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Joan_Miro_(cropped).jpg",
+    "ratio": 0.859
+  },
+  "artist-andre-masson": {
+    "file": "André Masson, Paris.jpg",
+    "credit": "Vulprania (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Masson%2C_Paris.jpg",
+    "ratio": 1.429
+  },
+  "artist-yves-tanguy": {
+    "file": "George Platt Lynes - Yves Tanguy (1948) - Centre Pompidou.jpg",
+    "credit": "Unknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:George_Platt_Lynes_-_Yves_Tanguy_(1948)_-_Centre_Pompidou.jpg",
+    "ratio": 0.788
+  },
+  "artist-leonora-carrington": {
+    "file": "L Carrington.jpg",
+    "credit": "WendyAvilesR (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:L_Carrington.jpg",
+    "ratio": 0.75
+  },
+  "artist-dorothea-tanning": {
+    "file": "Willy Mucha and max Ernst.png",
+    "credit": "willy mucha (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Willy_Mucha_and_max_Ernst.png",
+    "ratio": 1.572
+  },
+  "artist-meret-oppenheim": {
+    "file": "Meret Oppenheim.jpg",
+    "credit": "Sandra Becker 01 (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Meret_Oppenheim.jpg",
+    "ratio": 0.849
+  },
+  "artist-man-ray": {
+    "file": "Man Ray Salvador Dali (cropped).jpg",
+    "credit": "Van Vechten, Carl, 1880-1964, photographer, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Man_Ray_Salvador_Dali_(cropped).jpg",
+    "ratio": 0.646
+  },
+  "artist-lee-miller": {
+    "file": "War correspondents-Lee-Miller.jpg",
+    "credit": "U.S. Army Official Photograph (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:War_correspondents-Lee-Miller.jpg",
+    "ratio": 0.7
+  },
+  "artist-claude-cahun": {
+    "file": "Claude Cahun - I Am in Training Don't Kiss Me.jpg",
+    "credit": "Claude Cahun, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Claude_Cahun_-_I_Am_in_Training_Don't_Kiss_Me.jpg",
+    "ratio": 0.766
+  },
+  "artist-andre-kertesz": {
+    "file": "Kertesz.jpg",
+    "credit": "Arpadi at English Wikipedia, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Kertesz.jpg",
+    "ratio": 1.078
+  },
+  "artist-henri-cartier-bresson": {
+    "file": "Portrait of Henri Cartier-Bresson - Paris - 1954 - Kimura Ihei.png",
+    "credit": "Ihei Kimura, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Henri_Cartier-Bresson_-_Paris_-_1954_-_Kimura_Ihei.png",
+    "ratio": 0.699
+  },
+  "artist-dorothea-lange": {
+    "file": "Dorothea Lange 1936 portrait.jpg",
+    "credit": "Dorothea_Lange_1936.jpg: Dorothea_Lange ??? derivative work: Svajcr (talk), via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange_1936_portrait.jpg",
+    "ratio": 0.764
+  },
+  "artist-walker-evans": {
+    "file": "Walker Evans 1937-02.jpg",
+    "credit": "Edwin Locke, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Walker_Evans_1937-02.jpg",
+    "ratio": 1.5
+  },
+  "artist-alfred-stieglitz": {
+    "file": "Stieglitz 1907c autochrome self-portrait.jpg",
+    "credit": "Alfred Stieglitz, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Stieglitz_1907c_autochrome_self-portrait.jpg",
+    "ratio": 0.75
+  },
+  "artist-edward-weston": {
+    "file": "Edward Weston by Rae Davis, c1914.jpg",
+    "credit": "Rae Davis, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Edward_Weston_by_Rae_Davis%2C_c1914.jpg",
+    "ratio": 0.633
+  },
+  "artist-willem-de-kooning": {
+    "file": "Willem de Kooning in his studio.jpg",
+    "credit": "Antony di Gesu, photographer, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Willem_de_Kooning_in_his_studio.jpg",
+    "ratio": 1.3
+  },
+  "artist-lee-krasner": {
+    "file": "Lee Krasner, artist, cropped.jpg",
+    "credit": "Gotfryd, Bernard, photographer, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Lee_Krasner%2C_artist%2C_cropped.jpg",
+    "ratio": 0.721
+  },
+  "artist-helen-frankenthaler": {
+    "file": "2001 National Medal of Arts Recipient Helen Frankenthaler (cropped).jpg",
+    "credit": "Series: Photographs Related to the George W. Bush Administration, 1/20/2001 - 1/20/2009 Collection: Records of the White House Photo Office (George W. Bush Administration), 1/20/2001 - 1/20/2009, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:2001_National_Medal_of_Arts_Recipient_Helen_Frankenthaler_(cropped).jpg",
+    "ratio": 0.567
+  },
+  "artist-joan-mitchell": {
+    "file": "Joan Mitchell.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Joan_Mitchell.jpg",
+    "ratio": 0.753
+  },
+  "artist-barnett-newman": {
+    "file": "Newman Barnett.jpg",
+    "credit": "Bernard Gotfryd, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Newman_Barnett.jpg",
+    "ratio": 0.784
+  },
+  "artist-agnes-martin": {
+    "file": "Agnes-Martin.jpg",
+    "credit": "Carolineandrieu (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Agnes-Martin.jpg",
+    "ratio": 0.795
+  },
+  "artist-louise-bourgeois": {
+    "file": "Oliver Mark - Louise Bourgeois, New York 1996.jpg",
+    "credit": "Unknown author (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Oliver_Mark_-_Louise_Bourgeois%2C_New_York_1996.jpg",
+    "ratio": 0.997
+  },
+  "artist-alberto-giacometti": {
+    "file": "Emmy Andriesse - Alberto Giacometti (Ende 1940er PK-F-A.06801) cut.jpg",
+    "credit": "Emmy Andriesse, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Emmy_Andriesse_-_Alberto_Giacometti_(Ende_1940er_PK-F-A.06801)_cut.jpg",
+    "ratio": 0.824
+  },
+  "artist-henry-moore": {
+    "file": "Henry Moore 5 Allan Warren.jpg",
+    "credit": "Allan warren (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Henry_Moore_5_Allan_Warren.jpg",
+    "ratio": 0.769
+  },
+  "artist-barbara-hepworth": {
+    "file": "Barbara Hepworth (1966) by Erling Mandelmann.jpg",
+    "credit": "Erling Mandelmann (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Barbara_Hepworth_(1966)_by_Erling_Mandelmann.jpg",
+    "ratio": 0.673
+  },
+  "artist-lucio-fontana": {
+    "file": "Lucio Fontana by Lothar Wolleh.jpg",
+    "credit": "Lothar Wolleh (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Lucio_Fontana_by_Lothar_Wolleh.jpg",
+    "ratio": 1.006
+  },
+  "artist-yves-klein": {
+    "file": "Yves Klein in front of one of his canvases (1962) (cropped).jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Yves_Klein_in_front_of_one_of_his_canvases_(1962)_(cropped).jpg",
+    "ratio": 0.75
+  },
+  "artist-jean-dubuffet": {
+    "file": "Paolo Monti - Serie fotografica (Italia, 1960) - BEIC 6363665 dettaglio.jpg",
+    "credit": "Paolo Monti (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Serie_fotografica_(Italia%2C_1960)_-_BEIC_6363665_dettaglio.jpg",
+    "ratio": 0.6
+  },
+  "artist-lucian-freud": {
+    "file": "LucienFreud.jpg",
+    "credit": "procsilas (CC BY 2.0), via Wikimedia Commons",
+    "licence": "CC BY 2.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:LucienFreud.jpg",
+    "ratio": 0.662
+  },
+  "artist-andy-warhol": {
+    "file": "Andy Warhol at the Jewish Museum (by Bernard Gotfryd) – LOC.jpg",
+    "credit": "Bernard Gotfryd, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Andy_Warhol_at_the_Jewish_Museum_(by_Bernard_Gotfryd)_%E2%80%93_LOC.jpg",
+    "ratio": 0.688
+  },
+  "artist-roy-lichtenstein": {
+    "file": "Roy Lichtenstein, painter 1969 (cropped).jpg",
+    "credit": "Gotfryd, Bernard, photographer, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Roy_Lichtenstein%2C_painter_1969_(cropped).jpg",
+    "ratio": 0.75
+  },
+  "artist-robert-rauschenberg": {
+    "file": "Robert Rauschenberg 1999.jpg",
+    "credit": "Fvlcrvm (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Robert_Rauschenberg_1999.jpg",
+    "ratio": 0.811
+  },
+  "artist-jasper-johns": {
+    "file": "Jasper Johns, Medal of Freedom, 2011.jpg",
+    "credit": "White House videographer for The Obama White House, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jasper_Johns%2C_Medal_of_Freedom%2C_2011.jpg",
+    "ratio": 0.644
+  },
+  "artist-claes-oldenburg": {
+    "file": "Museum Ludwig - Pressekonferenz - Claes Oldenburg-3979.jpg",
+    "credit": "Raimond Spekking (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Museum_Ludwig_-_Pressekonferenz_-_Claes_Oldenburg-3979.jpg",
+    "ratio": 1
+  },
+  "artist-james-rosenquist": {
+    "file": "James rosenquist1.jpg",
+    "credit": "Russ Blaise at English Wikipedia, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:James_rosenquist1.jpg",
+    "ratio": 0.75
+  },
+  "artist-david-hockney": {
+    "file": "David Hockney in Washington Square Park (1977).jpg",
+    "credit": "United Press International, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:David_Hockney_in_Washington_Square_Park_(1977).jpg",
+    "ratio": 0.75
+  },
+  "artist-yayoi-kusama": {
+    "file": "Yayoi Kusama in 2005.jpg",
+    "credit": "Muriel Guingand (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Yayoi_Kusama_in_2005.jpg",
+    "ratio": 1.338
+  },
+  "artist-eva-hesse": {
+    "file": "Eva-Hesse.jpg",
+    "credit": "Carolineandrieu (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Eva-Hesse.jpg",
+    "ratio": 0.742
+  },
+  "artist-richard-serra": {
+    "file": "Oliver Mark - Richard Serra, Siegen 2005.jpg",
+    "credit": "Unknown author (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Oliver_Mark_-_Richard_Serra%2C_Siegen_2005.jpg",
+    "ratio": 0.833
+  },
+  "artist-joseph-kosuth": {
+    "file": "Joseph Kosuth (cropped).jpg",
+    "credit": "SonnensturmNr7 (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Joseph_Kosuth_(cropped).jpg",
+    "ratio": 0.75
+  },
+  "artist-lawrence-weiner": {
+    "file": "Lawrence Wiener in Speaking Portraits.jpg",
+    "credit": "George Quasha (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Lawrence_Wiener_in_Speaking_Portraits.jpg",
+    "ratio": 0.837
+  },
+  "artist-yoko-ono": {
+    "file": "MX MM YOKO ONO VISITANTE DISTINGUIDA CDMX.jpg",
+    "credit": "Secretaría de Cultura de la Ciudad de México (CC BY-SA 2.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:MX_MM_YOKO_ONO_VISITANTE_DISTINGUIDA_CDMX.jpg",
+    "ratio": 0.667
+  },
+  "artist-nam-june-paik": {
+    "file": "Paik Nam June (cropped).jpg",
+    "credit": "김언호, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Paik_Nam_June_(cropped).jpg",
+    "ratio": 0.816
+  },
+  "artist-marina-abramovic": {
+    "file": "Marina Abramović. The Cleaner (45524492341).jpg",
+    "credit": "Francesco Pierantoni from Bologna, Italy (CC BY 2.0), via Wikimedia Commons",
+    "licence": "CC BY 2.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Marina_Abramovi%C4%87._The_Cleaner_(45524492341).jpg",
+    "ratio": 0.802
+  },
+  "artist-joseph-beuys": {
+    "file": "Beuys-Feldman-Gallery.jpg",
+    "credit": "Ronald Feldman Fine Arts (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Beuys-Feldman-Gallery.jpg",
+    "ratio": 0.681
+  },
+  "artist-gerhard-richter": {
+    "file": "Gerhard Richter, Prague (2017).jpg",
+    "credit": "Jindřich Nosek (NoJin) (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Gerhard_Richter%2C_Prague_(2017).jpg",
+    "ratio": 0.8
+  },
+  "artist-georg-baselitz": {
+    "file": "Georg Baselitz by Erling Mandelmann.jpg",
+    "credit": "Erling Mandelmann (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Georg_Baselitz_by_Erling_Mandelmann.jpg",
+    "ratio": 1.333
+  },
+  "artist-sigmar-polke": {
+    "file": "Sigmar Polke.jpg",
+    "credit": "Cornel Wachter, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Sigmar_Polke.jpg",
+    "ratio": 0.872
+  },
+  "artist-keith-haring": {
+    "file": "Keith Haring (1986).jpg",
+    "credit": "Rob Bogaerts (Anefo), via Wikimedia Commons",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Keith_Haring_(1986).jpg",
+    "ratio": 0.75
+  },
+  "artist-cindy-sherman": {
+    "file": "Cindy Sherman (cropped).jpg",
+    "credit": "New Zealand Government, Office of the Governor-General (CC BY 4.0), via Wikimedia Commons",
+    "licence": "CC BY 4.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Cindy_Sherman_(cropped).jpg",
+    "ratio": 0.764
+  },
+  "artist-barbara-kruger": {
+    "file": "Barbara Kruger.jpg",
+    "credit": "Luisafantinel (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Barbara_Kruger.jpg",
+    "ratio": 0.784
+  },
+  "artist-jeff-koons": {
+    "file": "Jeff Koons 01.JPG",
+    "credit": "Bengt Oberger (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Jeff_Koons_01.JPG",
+    "ratio": 0.793
+  },
+  "artist-damien-hirst": {
+    "file": "Damien-Hirst-1 (2007).jpg",
+    "credit": "Unknown author (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Damien-Hirst-1_(2007).jpg",
+    "ratio": 0.759
+  },
+  "artist-tracey-emin": {
+    "file": "Tracey Emin 1-cropped.jpg",
+    "credit": "Piers Allardyce, crop by Tyrenius (CC BY 2.0), via Wikimedia Commons",
+    "licence": "CC BY 2.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Tracey_Emin_1-cropped.jpg",
+    "ratio": 0.742
+  },
+  "artist-sarah-lucas": {
+    "file": "Sarah Lucas on Station Ausone.jpg",
+    "credit": "Station Ausone (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Sarah_Lucas_on_Station_Ausone.jpg",
+    "ratio": 0.747
+  },
+  "artist-rachel-whiteread": {
+    "file": "Rachel Whiteread 2018.jpg",
+    "credit": "Christian Zürn (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Rachel_Whiteread_2018.jpg",
+    "ratio": 1.3
+  },
+  "artist-olafur-eliasson": {
+    "file": "Ólafur Elíasson Internationale Jury Berlinale 2017 (cropped).jpg",
+    "credit": "Maximilian Bühn (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:%C3%93lafur_El%C3%ADasson_Internationale_Jury_Berlinale_2017_(cropped).jpg",
+    "ratio": 0.691
+  },
+  "artist-ai-weiwei": {
+    "file": "Aj Wej-wej I (2017).jpg",
+    "credit": "Jindřich Nosek (NoJin) (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Aj_Wej-wej_I_(2017).jpg",
+    "ratio": 0.739
+  },
+  "artist-takashi-murakami": {
+    "file": "Takashi Murakami at Versailles Sept. 2010 (1).jpg",
+    "credit": "Sodacan, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Takashi_Murakami_at_Versailles_Sept._2010_(1).jpg",
+    "ratio": 1.309
+  },
+  "artist-yoshitomo-nara": {
+    "file": "Yoshitomo Nara Yokohama 2012.jpg",
+    "credit": "Hsinhuei Chiou (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Yoshitomo_Nara_Yokohama_2012.jpg",
+    "ratio": 0.798
+  },
+  "artist-hiroshi-sugimoto": {
+    "file": "Hiroshi Sugimoto Berlin (cropped).jpg",
+    "credit": "team art in berlin (CC BY-SA 2.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Hiroshi_Sugimoto_Berlin_(cropped).jpg",
+    "ratio": 0.742
+  },
+  "artist-shirin-neshat": {
+    "file": "Viennale talk (2), Shirin Neshat.jpg",
+    "credit": "Manfred Werner - Tsui (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Viennale_talk_(2)%2C_Shirin_Neshat.jpg",
+    "ratio": 0.738
+  },
+  "artist-mona-hatoum": {
+    "file": "IVAM - Mona Hatoum.jpg",
+    "credit": "Miguel Lorenzo (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:IVAM_-_Mona_Hatoum.jpg",
+    "ratio": 1.263
+  },
+  "artist-anish-kapoor": {
+    "file": "Anish Kapoor 01.jpg",
+    "credit": "Bengt Oberger (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Anish_Kapoor_01.jpg",
+    "ratio": 0.989
+  },
+  "artist-kara-walker": {
+    "file": "Kara Walker Interview Camden Arts Centre 01.47 (cropped).jpg",
+    "credit": "studio international (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Kara_Walker_Interview_Camden_Arts_Centre_01.47_(cropped).jpg",
+    "ratio": 0.8
+  },
+  "artist-theaster-gates": {
+    "file": "Unleashing Entrepreneurial Innovation with Stanford University Theaster Gates.jpg",
+    "credit": "World Economic Forum (CC BY-SA 2.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Unleashing_Entrepreneurial_Innovation_with_Stanford_University_Theaster_Gates.jpg",
+    "ratio": 0.744
+  },
+  "artist-julie-mehretu": {
+    "file": "Julie Mehretu, 2015.jpg",
+    "credit": "U.S. Department of State, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Julie_Mehretu%2C_2015.jpg",
+    "ratio": 0.739
+  },
+  "artist-kehinde-wiley": {
+    "file": "Kehinde Wiley (2015) (cropped).jpg",
+    "credit": "U.S. Department of State, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Kehinde_Wiley_(2015)_(cropped).jpg",
+    "ratio": 0.695
+  },
+  "artist-njideka-akunyili-crosby": {
+    "file": "Njideka Akunyili ed.jpg",
+    "credit": "Bronx Museum Teen Council (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Njideka_Akunyili_ed.jpg",
+    "ratio": 1
+  },
+  "artist-tania-bruguera": {
+    "file": "Tania bruguera.jpg",
+    "credit": "TAKEN BY THE LENS OF A BLOGGER IN HAVANA CITY HAVANA CUBA GALLERY; hechizamiento habanémico hebdomadario, by Lia Villares (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Tania_bruguera.jpg",
+    "ratio": 0.733
+  },
+  "artist-hito-steyerl": {
+    "file": "Hito Steyerl - Ars Electronica 2026 - BHO-0409.jpg",
+    "credit": "Bernhard Holub (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Hito_Steyerl_-_Ars_Electronica_2026_-_BHO-0409.jpg",
+    "ratio": 0.75
+  },
+  "artist-refik-anadol": {
+    "file": "Dubai Future Forum 2024 - Refik Anadol.jpg",
+    "credit": "Unknown author, via Wikimedia Commons",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dubai_Future_Forum_2024_-_Refik_Anadol.jpg",
+    "ratio": 0.667
+  },
+  "artist-shitao": {
+    "file": "Shitao-autoportrait.jpg",
+    "credit": "Shitao (石濤), via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Shitao-autoportrait.jpg",
+    "ratio": 0.907,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-qi-baishi": {
+    "file": "Qi Baishi (1956), by Zheng Jingkang.jpg",
+    "credit": "Zheng Jingkang, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Qi_Baishi_(1956)%2C_by_Zheng_Jingkang.jpg",
+    "ratio": 0.679
+  },
+  "artist-xu-beihong": {
+    "file": "XuBeihong.jpg",
+    "credit": "Unknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:XuBeihong.jpg",
+    "ratio": 0.807
+  },
+  "artist-zhang-daqian": {
+    "file": "196710張大千.jpg",
+    "credit": "中央日報, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:196710%E5%BC%B5%E5%A4%A7%E5%8D%83.jpg",
+    "ratio": 0.798
+  },
+  "artist-yokoyama-taikan": {
+    "file": "Yokoyama Taikan.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Yokoyama_Taikan.jpg",
+    "ratio": 0.635
+  },
+  "artist-park-su-geun": {
+    "file": "박수근 화백.jpg",
+    "credit": "동아일보, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:%EB%B0%95%EC%88%98%EA%B7%BC_%ED%99%94%EB%B0%B1.jpg",
+    "ratio": 0.841
+  },
+  "artist-kim-whanki": {
+    "file": "김환기 화백.jpg",
+    "credit": "동아일보, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:%EA%B9%80%ED%99%98%EA%B8%B0_%ED%99%94%EB%B0%B1.jpg",
+    "ratio": 0.71
+  },
+  "artist-lee-ufan": {
+    "file": "Lee Ufan.jpg",
+    "credit": "Andrew Tupalev (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Lee_Ufan.jpg",
+    "ratio": 1
+  },
+  "artist-raja-ravi-varma": {
+    "file": "Ravivarma1b.jpg",
+    "credit": "Bhawani Ram, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ravivarma1b.jpg",
+    "ratio": 0.742
+  },
+  "artist-abanindranath-tagore": {
+    "file": "Abanindranath Tagore.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Abanindranath_Tagore.jpg",
+    "ratio": 0.716
+  },
+  "artist-amrita-sher-gil": {
+    "file": "Amrita Sher-Gil 2.jpg",
+    "credit": "Unknown authorUnknown author probably Umrao Singh Sher-Gil (1870–1954), via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_2.jpg",
+    "ratio": 0.947
+  },
+  "artist-jamini-roy": {
+    "file": "Statue of Jamini Roy.jpg",
+    "credit": "Marajozkee (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Jamini_Roy.jpg",
+    "ratio": 0.667
+  },
+  "artist-rabindranath-tagore": {
+    "file": "Rabindranath Tagore in 1909.jpg",
+    "credit": "Generalstabens litografiska anstalt, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Rabindranath_Tagore_in_1909.jpg",
+    "ratio": 0.714
+  },
+  "artist-m-f-husain": {
+    "file": "Husain with Rammanohar (cropped).jpg",
+    "credit": "Abrsinha (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Husain_with_Rammanohar_(cropped).jpg",
+    "ratio": 0.667
+  },
+  "artist-f-n-souza": {
+    "file": "Indian artist of Goan origin, Francis Newton Souza.jpg",
+    "credit": "Fredericknoronha (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_artist_of_Goan_origin%2C_Francis_Newton_Souza.jpg",
+    "ratio": 1.333
+  },
+  "artist-s-h-raza": {
+    "file": "Sayed Haider Raza (1995).png",
+    "credit": "Pantalaskas (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Sayed_Haider_Raza_(1995).png",
+    "ratio": 1.224
+  },
+  "artist-tyeb-mehta": {
+    "file": "Tyeb Mehta.jpg",
+    "credit": "Cea (CC BY 2.0), via Wikimedia Commons",
+    "licence": "CC BY 2.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Tyeb_Mehta.jpg",
+    "ratio": 1.714
+  },
+  "artist-bhupen-khakhar": {
+    "file": "Bhupen Khakhar.jpg",
+    "credit": "cea + from The Netherlands (CC BY 2.0), via Wikimedia Commons",
+    "licence": "CC BY 2.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Bhupen_Khakhar.jpg",
+    "ratio": 0.681
+  },
+  "artist-nalini-malani": {
+    "file": "Nalini Malani.jpg",
+    "credit": "सुहास बहुळकर, दीपक घारे (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Nalini_Malani.jpg",
+    "ratio": 0.75
+  },
+  "artist-vivan-sundaram": {
+    "file": "Vivan Sundaram 2012.jpg",
+    "credit": "George Quasha (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Vivan_Sundaram_2012.jpg",
+    "ratio": 1.014
+  },
+  "artist-osman-hamdi-bey": {
+    "file": "Osman Hamdi Bey.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Osman_Hamdi_Bey.jpg",
+    "ratio": 0.714
+  },
+  "artist-mahmoud-mokhtar": {
+    "file": "Mahmoud Mokhtar.jpg",
+    "credit": "روز اليوسف, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Mahmoud_Mokhtar.jpg",
+    "ratio": 0.739
+  },
+  "artist-shakir-hassan-al-said": {
+    "file": "شاكر حسن آل سعيد 1962.jpg",
+    "credit": "مجلة العراق الجديد, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:%D8%B4%D8%A7%D9%83%D8%B1_%D8%AD%D8%B3%D9%86_%D8%A2%D9%84_%D8%B3%D8%B9%D9%8A%D8%AF_1962.jpg",
+    "ratio": 0.674
+  },
+  "artist-etel-adnan": {
+    "file": "Etel Adnan, 2008 (cropped).jpg",
+    "credit": "Nanwieser (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Etel_Adnan%2C_2008_(cropped).jpg",
+    "ratio": 0.707
+  },
+  "artist-parviz-tanavoli": {
+    "file": "Parviz Tanavoli-پرویز تناولی-مجسمه ساز.jpg",
+    "credit": "Masih Azarakhsh (CC BY-SA 2.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Parviz_Tanavoli-%D9%BE%D8%B1%D9%88%DB%8C%D8%B2_%D8%AA%D9%86%D8%A7%D9%88%D9%84%DB%8C-%D9%85%D8%AC%D8%B3%D9%85%D9%87_%D8%B3%D8%A7%D8%B2.jpg",
+    "ratio": 0.75
+  },
+  "artist-bruce-onobrakpeya": {
+    "file": "Bruce Onobrakpeya The Pride of all nigerians.jpg",
+    "credit": "Mudiare (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Bruce_Onobrakpeya_The_Pride_of_all_nigerians.jpg",
+    "ratio": 0.75
+  },
+  "artist-skunder-boghossian": {
+    "file": "\"Self-Portrait\", 1961 - NARA - 558827.jpg",
+    "credit": "Skunder Boghossian, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:%22Self-Portrait%22%2C_1961_-_NARA_-_558827.jpg",
+    "ratio": 1.39
+  },
+  "artist-gerard-sekoto": {
+    "file": "HuddlestonMural.jpg",
+    "credit": "Josef Langerman (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:HuddlestonMural.jpg",
+    "ratio": 1.333
+  },
+  "artist-william-kentridge": {
+    "file": "William Kentridge (2025) (cropped).jpg",
+    "credit": "Mozamaniac (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:William_Kentridge_(2025)_(cropped).jpg",
+    "ratio": 0.723
+  },
+  "artist-marlene-dumas": {
+    "file": "Marlene Dumas.jpg",
+    "credit": "Jan Harm Bakhuys (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Marlene_Dumas.jpg",
+    "ratio": 0.829
+  },
+  "artist-zanele-muholi": {
+    "file": "Zanele Muholi, 2011 (cropped).JPG",
+    "credit": "International Gay and Lesbian Film Festival «Side by Side» (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Zanele_Muholi%2C_2011_(cropped).JPG",
+    "ratio": 0.688
+  },
+  "artist-el-anatsui": {
+    "file": "El Anatsui - Man's Cloth.jpg",
+    "credit": "hahnchen (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:El_Anatsui_-_Man's_Cloth.jpg",
+    "ratio": 1.5
+  },
+  "artist-yinka-shonibare": {
+    "file": "Yinka Shonibare CBE RA in front of the Hibiscus Rising sculpture. LEEDS 2023.jpg",
+    "credit": "David Lindsay on behalf of LEEDS 2023 (Leeds Culture Trust); original sculpture by Yinka Shonibare (pictured) (CC BY-SA 2.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Yinka_Shonibare_CBE_RA_in_front_of_the_Hibiscus_Rising_sculpture._LEEDS_2023.jpg",
+    "ratio": 1.532
+  },
+  "artist-malick-sidibe": {
+    "file": "Karim Sidibé.jpg",
+    "credit": "Mark Fischer (CC BY-SA 2.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Karim_Sidib%C3%A9.jpg",
+    "ratio": 0.667
+  },
+  "artist-omar-victor-diop": {
+    "file": "Omar Victor Diop Paris Photo.jpg",
+    "credit": "Ninara (CC BY 2.0), via Wikimedia Commons",
+    "licence": "CC BY 2.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Omar_Victor_Diop_Paris_Photo.jpg",
+    "ratio": 1.364
+  },
+  "artist-abdoulaye-konate": {
+    "file": "Abdoulaye KONATE.jpg",
+    "credit": "KAG1LP2MDIAKITE (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Abdoulaye_KONATE.jpg",
+    "ratio": 1.071
+  },
+  "artist-diego-rivera": {
+    "file": "Diego Rivera - Google Art Project (cropped).jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Diego_Rivera_-_Google_Art_Project_(cropped).jpg",
+    "ratio": 0.719
+  },
+  "artist-frida-kahlo": {
+    "file": "Frida Kahlo, by Guillermo Kahlo (cropped).jpg",
+    "credit": "Guillermo Kahlo, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Frida_Kahlo%2C_by_Guillermo_Kahlo_(cropped).jpg",
+    "ratio": 0.831
+  },
+  "artist-jose-clemente-orozco": {
+    "file": "José Clemente Orozco, c1930.jpg",
+    "credit": "Los Angeles Times (CC BY 4.0), via Wikimedia Commons",
+    "licence": "CC BY 4.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Clemente_Orozco%2C_c1930.jpg",
+    "ratio": 0.861
+  },
+  "artist-david-alfaro-siqueiros": {
+    "file": "David Alfaro Siqueiros (El Coronelazo).jpg",
+    "credit": "Galería Fundación Héctor García (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:David_Alfaro_Siqueiros_(El_Coronelazo).jpg",
+    "ratio": 0.696
+  },
+  "artist-rufino-tamayo": {
+    "file": "Rufino Tamayo.jpg",
+    "credit": "User Steve Eifert on en.wikipedia, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Rufino_Tamayo.jpg",
+    "ratio": 0.636
+  },
+  "artist-dr-atl": {
+    "file": "Dr Atl (Gerardo Murillo) (Pacific) - btv1b53198159h.jpg",
+    "credit": "Pacific and Atlantic (Agence photographique). Agence photographique pour le document reproduit (commanditaire) Agence Rol. Agence photographique (commanditaire), via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Dr_Atl_(Gerardo_Murillo)_(Pacific)_-_btv1b53198159h.jpg",
+    "ratio": 0.723
+  },
+  "artist-pedro-figari": {
+    "file": "Pedro Figari 2.jpg",
+    "credit": "William Belmont Parker, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Pedro_Figari_2.jpg",
+    "ratio": 0.818
+  },
+  "artist-tarsila-do-amaral": {
+    "file": "Tarsila do Amaral, ca. 1925.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Tarsila_do_Amaral%2C_ca._1925.jpg",
+    "ratio": 0.707
+  },
+  "artist-anita-malfatti": {
+    "file": "Anita Malfatti, c. 1930 (Anita Malfatti no Tempo e no Espaço).jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Anita_Malfatti%2C_c._1930_(Anita_Malfatti_no_Tempo_e_no_Espa%C3%A7o).jpg",
+    "ratio": 0.788
+  },
+  "artist-candido-portinari": {
+    "file": "Cândido Portinari (1962).jpg",
+    "credit": "UnknownUnknown, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:C%C3%A2ndido_Portinari_(1962).jpg",
+    "ratio": 0.75
+  },
+  "artist-fernando-botero": {
+    "file": "Fernando Botero (2018).jpg",
+    "credit": "Culturespaces (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_Botero_(2018).jpg",
+    "ratio": 0.75
+  },
+  "artist-wifredo-lam": {
+    "file": "Wilfredo Lam.jpg",
+    "credit": "Original uploader was Mfoto at en.wikipedia (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Wilfredo_Lam.jpg",
+    "ratio": 0.809
+  },
+  "artist-ana-mendieta": {
+    "file": "Ana-Mendieta.jpg",
+    "credit": "Carolineandrieu (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Ana-Mendieta.jpg",
+    "ratio": 0.769
+  },
+  "artist-carlos-cruz-diez": {
+    "file": "Retrato Cruz-Diez France 2013.jpg",
+    "credit": "Ateliercruzdiez (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Retrato_Cruz-Diez_France_2013.jpg",
+    "ratio": 1.5
+  },
+  "artist-jesus-rafael-soto": {
+    "file": "Jesús-Rafael Soto (1995).png",
+    "credit": "Pantalaskas (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Jes%C3%BAs-Rafael_Soto_(1995).png",
+    "ratio": 1.263
+  },
+  "artist-roberto-matta": {
+    "file": "Matta revista cleaned.jpg",
+    "credit": "Autor desconocido, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Matta_revista_cleaned.jpg",
+    "ratio": 0.711
+  },
+  "artist-alfredo-jaar": {
+    "file": "Alfredo Jaar (cropped).jpg",
+    "credit": "Andrew Russeth (CC BY-SA 2.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Alfredo_Jaar_(cropped).jpg",
+    "ratio": 1.053
+  },
+  "artist-cecilia-vicuna": {
+    "file": "Cecilia-vicuna.jpg",
+    "credit": "Cecilia Vicuna (CC BY 4.0), via Wikimedia Commons",
+    "licence": "CC BY 4.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Cecilia-vicuna.jpg",
+    "ratio": 1.333
+  },
+  "artist-albert-namatjira": {
+    "file": "Albert Namatjira portrait.jpg",
+    "credit": "Unknown author., via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Albert_Namatjira_portrait.jpg",
+    "ratio": 0.69
+  },
+  "artist-fiona-foley": {
+    "file": "Fiona Foley (born 1964) in the video 'Global Feminisms'.png",
+    "credit": "Brooklyn Museum (CC BY 4.0), via Wikimedia Commons",
+    "licence": "CC BY 4.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Fiona_Foley_(born_1964)_in_the_video_'Global_Feminisms'.png",
+    "ratio": 0.831
+  },
+  "artist-brook-andrew": {
+    "file": "Brook Andrew portrait in studio 2015 15cm.jpg",
+    "credit": "LorelaiLouise (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Brook_Andrew_portrait_in_studio_2015_15cm.jpg",
+    "ratio": 1.385
+  },
+  "artist-lisa-reihana": {
+    "file": "Lisa Reihana MNZM (cropped).jpg",
+    "credit": "New Zealand Government, Office of the Governor-General (CC BY 4.0), via Wikimedia Commons",
+    "licence": "CC BY 4.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Lisa_Reihana_MNZM_(cropped).jpg",
+    "ratio": 0.702
+  },
+  "artist-ralph-hotere": {
+    "file": "Ralph Hotere (cropped).jpg",
+    "credit": "New Zealand Government, Office of the Governor-General (CC BY 4.0), via Wikimedia Commons",
+    "licence": "CC BY 4.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Ralph_Hotere_(cropped).jpg",
+    "ratio": 0.752
+  },
+  "artist-shane-cotton": {
+    "file": "Shane Cotton (cropped).jpg",
+    "credit": "New Zealand Government, Office of the Governor-General (CC BY 4.0), via Wikimedia Commons",
+    "licence": "CC BY 4.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Shane_Cotton_(cropped).jpg",
+    "ratio": 0.738
+  },
+  "artist-john-pule": {
+    "file": "John Pule in 2024 (cropped).jpg",
+    "credit": "US Embassy New Zealand, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Pule_in_2024_(cropped).jpg",
+    "ratio": 0.75
+  },
+  "artist-yuki-kihara": {
+    "file": "Yuki Kihara 2022.jpg",
+    "credit": "studio international (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Yuki_Kihara_2022.jpg",
+    "ratio": 1.011
+  },
+  "artist-william-morris": {
+    "file": "William Morris age 53.jpg",
+    "credit": "Frederick Hollyer, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:William_Morris_age_53.jpg",
+    "ratio": 0.795,
+    "note": "Painted, drawn or printed likeness. It may be a self-portrait, a portrait from the artist’s lifetime or a later image; see the source page."
+  },
+  "artist-charles-rennie-mackintosh": {
+    "file": "Charles-Rennie-Mackintosh.jpg",
+    "credit": "James Craig Annan, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Charles-Rennie-Mackintosh.jpg",
+    "ratio": 0.788
+  },
+  "artist-antoni-gaudi": {
+    "file": "Gaudí (1878).jpg",
+    "credit": "Pau Audouard Deglaire, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Gaud%C3%AD_(1878).jpg",
+    "ratio": 0.784
+  },
+  "artist-victor-horta": {
+    "file": "Victor Horta (cropped).jpg",
+    "credit": "Gustave Deltour, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Victor_Horta_(cropped).jpg",
+    "ratio": 0.93
+  },
+  "artist-hector-guimard": {
+    "file": "Hector-Guimard-(1907).jpg",
+    "credit": "Unknown photographer, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Hector-Guimard-(1907).jpg",
+    "ratio": 0.707
+  },
+  "artist-walter-gropius": {
+    "file": "Walter Gropius Foto 1920.jpg",
+    "credit": "Unknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Walter_Gropius_Foto_1920.jpg",
+    "ratio": 0.674
+  },
+  "artist-ludwig-mies-van-der-rohe": {
+    "file": "Ludwig Mies van der Rohe in Arts & Architecture, June 1960 issue.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ludwig_Mies_van_der_Rohe_in_Arts_%26_Architecture%2C_June_1960_issue.jpg",
+    "ratio": 0.778
+  },
+  "artist-le-corbusier": {
+    "file": "Le Corbusier (1964).jpg",
+    "credit": "Joop van Bilsen for Anefo, via Wikimedia Commons",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Le_Corbusier_(1964).jpg",
+    "ratio": 1
+  },
+  "artist-frank-lloyd-wright": {
+    "file": "Frank Lloyd Wright LC-USZ62-36384.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_LC-USZ62-36384.jpg",
+    "ratio": 0.609
+  },
+  "artist-eileen-gray": {
+    "file": "Eileen Gray.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Eileen_Gray.jpg",
+    "ratio": 1.412
+  },
+  "artist-charlotte-perriand": {
+    "file": "Charlotte Perriand Janvier 1991.jpg",
+    "credit": "Robert Doisneau, via Wikimedia Commons",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Charlotte_Perriand_Janvier_1991.jpg",
+    "ratio": 0.668
+  },
+  "artist-marcel-breuer": {
+    "file": "Marcel Breuer (cropped).jpg",
+    "credit": "Herbert Behrens / Anefo (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Marcel_Breuer_(cropped).jpg",
+    "ratio": 0.646
+  },
+  "artist-alvar-aalto": {
+    "file": "Alvar Aalto1.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Alvar_Aalto1.jpg",
+    "ratio": 0.758
+  },
+  "artist-lina-bo-bardi": {
+    "file": "Lina Bo Bardi.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Lina_Bo_Bardi.jpg",
+    "ratio": 0.667
+  },
+  "artist-oscar-niemeyer": {
+    "file": "Oscar Niemeyer 1968b.jpg",
+    "credit": "Unknown (Mondadori Publishers), via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Oscar_Niemeyer_1968b.jpg",
+    "ratio": 0.705
+  },
+  "artist-tadao-ando": {
+    "file": "Tadao Ando 2004.jpg",
+    "credit": "Christopher Schriner from Köln, Deutschland (CC BY-SA 2.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Tadao_Ando_2004.jpg",
+    "ratio": 0.667
+  },
+  "artist-issey-miyake": {
+    "file": "Issey Miyake Tokyo 2016.jpg",
+    "credit": "Hsinhuei Chiou (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Issey_Miyake_Tokyo_2016.jpg",
+    "ratio": 0.833
+  },
+  "artist-saul-bass": {
+    "file": "Saul Bass gesturing, RIT NandE Vol11Num19 1979 May10 Complete.jpg",
+    "credit": "Rochester Institute of Technology, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Saul_Bass_gesturing%2C_RIT_NandE_Vol11Num19_1979_May10_Complete.jpg",
+    "ratio": 1.558
+  },
+  "artist-paul-rand": {
+    "file": "Paul rand loc.jpg",
+    "credit": "Unknown authorUnknown author, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_rand_loc.jpg",
+    "ratio": 0.696
+  },
+  "artist-massimo-vignelli": {
+    "file": "Massimo-Vignelli-01.jpg",
+    "credit": "Wikimassimovignelli (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Massimo-Vignelli-01.jpg",
+    "ratio": 1.5
+  },
+  "artist-milton-glaser": {
+    "file": "Milton Glaser at Cooper Hewitt, Smithsonian Design Museum.jpg",
+    "credit": "Cooper Hewitt (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Milton_Glaser_at_Cooper_Hewitt%2C_Smithsonian_Design_Museum.jpg",
+    "ratio": 1.401
+  },
+  "artist-susan-kare": {
+    "file": "Susan Kare Mac Demo 1984 01.jpg",
+    "credit": "Unknown authorUnknown author (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Susan_Kare_Mac_Demo_1984_01.jpg",
+    "ratio": 1.314
+  },
+  "artist-paula-scher": {
+    "file": "Paula Scher interview OnCreativity.jpg",
+    "credit": "OnCreativity (CC BY 3.0), via Wikimedia Commons",
+    "licence": "CC BY 3.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Paula_Scher_interview_OnCreativity.jpg",
+    "ratio": 1
+  },
+  "artist-april-greiman": {
+    "file": "April Greiman Portrait 2024.jpg",
+    "credit": "Maiden la (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:April_Greiman_Portrait_2024.jpg",
+    "ratio": 1
+  },
+  "artist-neville-brody": {
+    "file": "Neville Brody TYPO SF 2012.jpg",
+    "credit": "FontShop, Amber Gregory (CC BY 2.0), via Wikimedia Commons",
+    "licence": "CC BY 2.0. Attribution required.",
+    "page": "https://commons.wikimedia.org/wiki/File:Neville_Brody_TYPO_SF_2012.jpg",
+    "ratio": 0.667
+  },
+  "artist-stefan-sagmeister": {
+    "file": "MJK61338 Stefan Sagmeister (Beyond Tellerrand München 2018).jpg",
+    "credit": "Martin Kraft (CC BY-SA 4.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:MJK61338_Stefan_Sagmeister_(Beyond_Tellerrand_M%C3%BCnchen_2018).jpg",
+    "ratio": 1
+  },
+  "artist-jessica-walsh": {
+    "file": "Jessica Walsh 2013.jpg",
+    "credit": "Jessica Walsh (CC BY-SA 3.0), via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0. Attribution required; share-alike applies to adaptations.",
+    "page": "https://commons.wikimedia.org/wiki/File:Jessica_Walsh_2013.jpg",
+    "ratio": 0.719
+  },
+  "artist-paul-signac": {
+    "file": "Paul Signac 1923.jpg",
+    "credit": "Agence de presse Meurisse, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Signac_1923.jpg",
+    "ratio": 0.72
+  },
+  "artist-doris-salcedo": {
+    "file": "GUGG Doris Salcedo.jpg",
+    "credit": "David Heald, via Wikimedia Commons",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:GUGG_Doris_Salcedo.jpg",
+    "ratio": 0.695
+  },
+  "artist-joaquin-torres-garcia": {
+    "file": "Ramon Casas - MNAC- Joaquín Torres García- 027317-D 026088.jpg",
+    "credit": "Ramon Casas, via Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ramon_Casas_-_MNAC-_Joaqu%C3%ADn_Torres_Garc%C3%ADa-_027317-D_026088.jpg",
+    "ratio": 0.474
+  }
+}

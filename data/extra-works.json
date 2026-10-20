@@ -1,0 +1,3162 @@
+[
+ {
+  "id": "art-exekias-dionysos-cup",
+  "artist": "artist-exekias",
+  "name": "Exekias",
+  "title": "Dionysos Cup",
+  "year": -540,
+  "label": "c. 540 BCE",
+  "collection": "Staatliche Antikensammlungen",
+  "mats": [
+   "Ceramic"
+  ],
+  "kind": "",
+  "ratio": 1,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Ancient Greece",
+  "aStart": -550,
+  "aEnd": -525
+ },
+ {
+  "id": "art-myron-discobolus",
+  "artist": "artist-myron",
+  "name": "Myron",
+  "title": "Discobolus",
+  "titleEl": "Δισκοβόλος του Μύρωνα",
+  "year": -450,
+  "label": "c. 450 BCE",
+  "mats": [
+   "Bronze",
+   "Marble"
+  ],
+  "kind": "statue",
+  "ratio": 0.598,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Ancient Greece",
+  "aStart": -470,
+  "aEnd": -440
+ },
+ {
+  "id": "art-praxiteles-resting-satyr",
+  "artist": "artist-praxiteles",
+  "name": "Praxiteles",
+  "title": "Resting Satyr",
+  "titleEl": "Σάτυρος του Πραξιτέλη",
+  "mats": [
+   "Carrara marble"
+  ],
+  "kind": "statue type",
+  "ratio": 0.545,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Ancient Greece",
+  "aStart": -370,
+  "aEnd": -330
+ },
+ {
+  "id": "art-andrei-rublev-trinity-icon",
+  "artist": "artist-andrei-rublev",
+  "name": "Andrei Rublev",
+  "title": "Trinity icon",
+  "collection": "Trinity Lavra of St. Sergius",
+  "mats": [
+   "Wood",
+   "Tempera"
+  ],
+  "kind": "icon",
+  "ratio": 0.808,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Russia",
+  "aStart": 1360,
+  "aEnd": 1428
+ },
+ {
+  "id": "art-duccio-di-buoninsegna-maesta",
+  "artist": "artist-duccio-di-buoninsegna",
+  "name": "Duccio di Buoninsegna",
+  "title": "Maestà",
+  "year": 1350,
+  "label": "14th century",
+  "mats": [
+   "Wood",
+   "Tempera"
+  ],
+  "kind": "",
+  "ratio": 1.057,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1255,
+  "aEnd": 1319
+ },
+ {
+  "id": "art-giotto-di-bondone-madonna-enthroned",
+  "artist": "artist-giotto-di-bondone",
+  "name": "Giotto di Bondone",
+  "title": "Madonna Enthroned",
+  "year": 1300,
+  "label": "1300s",
+  "collection": "Uffizi Gallery",
+  "mats": [
+   "Panel",
+   "Gold",
+   "Tempera"
+  ],
+  "kind": "painting",
+  "ratio": 0.65,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1267,
+  "aEnd": 1337
+ },
+ {
+  "id": "art-simone-martini-annunciation-with-saints-maxima-and-ansanus",
+  "artist": "artist-simone-martini",
+  "name": "Simone Martini",
+  "title": "Annunciation with Saints Maxima and Ansanus",
+  "titleEl": "Ο Ευαγγελισμός της Θεοτόκου",
+  "year": 1333,
+  "label": "1333",
+  "collection": "Uffizi Gallery",
+  "mats": [
+   "Panel",
+   "Tempera"
+  ],
+  "kind": "painting",
+  "ratio": 1.152,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1284,
+  "aEnd": 1344
+ },
+ {
+  "id": "art-donatello-david",
+  "artist": "artist-donatello",
+  "name": "Donatello",
+  "title": "David",
+  "titleEl": "Δαβίδ του Ντονατέλλο",
+  "collection": "Bargello National Museum",
+  "mats": [
+   "Bronze",
+   "Marble"
+  ],
+  "kind": "statue",
+  "ratio": 0.62,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1386,
+  "aEnd": 1466
+ },
+ {
+  "id": "art-masaccio-holy-trinity",
+  "artist": "artist-masaccio",
+  "name": "Masaccio",
+  "title": "Holy Trinity",
+  "year": 1420,
+  "label": "1420s",
+  "collection": "Basilica of Santa Maria Novella",
+  "mats": [
+   "Fresco"
+  ],
+  "kind": "fresco",
+  "ratio": 0.535,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1401,
+  "aEnd": 1428
+ },
+ {
+  "id": "art-sandro-botticelli-the-birth-of-venus",
+  "artist": "artist-sandro-botticelli",
+  "name": "Sandro Botticelli",
+  "title": "The Birth of Venus",
+  "titleEl": "Η Γέννηση της Αφροδίτης",
+  "collection": "Uffizi Gallery",
+  "mats": [
+   "Canvas",
+   "Tempera"
+  ],
+  "kind": "painting",
+  "ratio": 1.592,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1445,
+  "aEnd": 1510
+ },
+ {
+  "id": "art-michelangelo-buonarroti-sistine-chapel",
+  "artist": "artist-michelangelo-buonarroti",
+  "name": "Michelangelo Buonarroti",
+  "title": "Sistine Chapel",
+  "titleEl": "Καπέλα Σιστίνα",
+  "year": 1473,
+  "label": "1473",
+  "mats": [],
+  "kind": "Catholic church building",
+  "ratio": 0.736,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1475,
+  "aEnd": 1564
+ },
+ {
+  "id": "art-raphael-the-school-of-athens",
+  "artist": "artist-raphael",
+  "name": "Raphael",
+  "title": "The School of Athens",
+  "titleEl": "Η Σχολή των Αθηνών",
+  "year": 1512,
+  "label": "1512",
+  "collection": "Vatican Museums",
+  "mats": [
+   "Fresco",
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "fresco",
+  "ratio": 1.289,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1483,
+  "aEnd": 1520
+ },
+ {
+  "id": "art-titian-venus-of-urbino",
+  "artist": "artist-titian",
+  "name": "Titian",
+  "title": "Venus of Urbino",
+  "titleEl": "Αφροδίτη του Ουρμπίνο",
+  "year": 1538,
+  "label": "1538",
+  "collection": "Uffizi Gallery",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.411,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1488,
+  "aEnd": 1576
+ },
+ {
+  "id": "art-piero-della-francesca-flagellation-of-christ",
+  "artist": "artist-piero-della-francesca",
+  "name": "Piero della Francesca",
+  "title": "Flagellation of Christ",
+  "year": 1450,
+  "label": "1450s",
+  "collection": "Galleria Nazionale delle Marche",
+  "mats": [
+   "Poplar panel",
+   "Tempera"
+  ],
+  "kind": "painting",
+  "ratio": 1.422,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1415,
+  "aEnd": 1492
+ },
+ {
+  "id": "art-jan-van-eyck-arnolfini-portrait",
+  "artist": "artist-jan-van-eyck",
+  "name": "Jan van Eyck",
+  "title": "Arnolfini Portrait",
+  "titleEl": "Ο γάμος των Αρνολφίνι",
+  "year": 1434,
+  "label": "1434",
+  "collection": "National Gallery",
+  "mats": [
+   "Oak panel",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.731,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Flanders",
+  "aStart": 1390,
+  "aEnd": 1441
+ },
+ {
+  "id": "art-hieronymus-bosch-the-garden-of-earthly-delights",
+  "artist": "artist-hieronymus-bosch",
+  "name": "Hieronymus Bosch",
+  "title": "The Garden of Earthly Delights",
+  "titleEl": "Ο κήπος των επίγειων απολαύσεων",
+  "collection": "Museo del Prado",
+  "mats": [
+   "Panel",
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.773,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Netherlands",
+  "aStart": 1450,
+  "aEnd": 1516
+ },
+ {
+  "id": "art-pieter-bruegel-the-elder-the-hunters-in-the-snow",
+  "artist": "artist-pieter-bruegel-the-elder",
+  "name": "Pieter Bruegel the Elder",
+  "title": "The Hunters in the Snow",
+  "titleEl": "Οι κυνηγοί στο χιόνι",
+  "year": 1565,
+  "label": "1565",
+  "collection": "Kunsthistorisches Museum",
+  "mats": [
+   "Panel",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.405,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Flanders",
+  "aStart": 1525,
+  "aEnd": 1569
+ },
+ {
+  "id": "art-hans-holbein-the-younger-the-ambassadors",
+  "artist": "artist-hans-holbein-the-younger",
+  "name": "Hans Holbein the Younger",
+  "title": "The Ambassadors",
+  "titleEl": "Οι πρεσβευτές",
+  "year": 1533,
+  "label": "1533",
+  "collection": "National Gallery",
+  "mats": [
+   "Oak panel",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.015,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Germany",
+  "aStart": 1497,
+  "aEnd": 1543
+ },
+ {
+  "id": "art-lucas-cranach-the-elder-the-fountain-of-youth",
+  "artist": "artist-lucas-cranach-the-elder",
+  "name": "Lucas Cranach the Elder",
+  "title": "The fountain of youth",
+  "titleEl": "Η Πηγή της Νεότητας",
+  "year": 1546,
+  "label": "1546",
+  "collection": "Gemäldegalerie Berlin",
+  "mats": [
+   "Lime panel",
+   "Paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.545,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Germany",
+  "aStart": 1472,
+  "aEnd": 1553
+ },
+ {
+  "id": "art-sofonisba-anguissola-portrait-of-the-artists-sisters-playing",
+  "artist": "artist-sofonisba-anguissola",
+  "name": "Sofonisba Anguissola",
+  "title": "Portrait of the Artist's Sisters Playing Chess",
+  "year": 1555,
+  "label": "1555",
+  "collection": "National Museum in Poznań",
+  "mats": [
+   "Canvas",
+   "Oil paint",
+   "Tempera"
+  ],
+  "kind": "painting",
+  "ratio": 1.266,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1532,
+  "aEnd": 1625
+ },
+ {
+  "id": "art-artemisia-gentileschi-judith-slaying-holofernes",
+  "artist": "artist-artemisia-gentileschi",
+  "name": "Artemisia Gentileschi",
+  "title": "Judith Slaying Holofernes",
+  "year": 1613,
+  "label": "1613",
+  "collection": "Museo di Capodimonte",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.785,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1593,
+  "aEnd": 1656
+ },
+ {
+  "id": "art-caravaggio-the-calling-of-saint-matthew",
+  "artist": "artist-caravaggio",
+  "name": "Caravaggio",
+  "title": "The Calling of Saint Matthew",
+  "year": 1609,
+  "label": "1609",
+  "collection": "San Luigi dei Francesi",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.059,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1571,
+  "aEnd": 1610
+ },
+ {
+  "id": "art-gian-lorenzo-bernini-ecstasy-of-saint-teresa",
+  "artist": "artist-gian-lorenzo-bernini",
+  "name": "Gian Lorenzo Bernini",
+  "title": "Ecstasy of Saint Teresa",
+  "titleEl": "Η Έκσταση της Αγίας Τερέζας",
+  "year": 1647,
+  "label": "1647",
+  "collection": "Santa Maria della Vittoria",
+  "mats": [
+   "Marble"
+  ],
+  "kind": "sculpture",
+  "ratio": 0.631,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1598,
+  "aEnd": 1680
+ },
+ {
+  "id": "art-peter-paul-rubens-the-elevation-of-the-cross",
+  "artist": "artist-peter-paul-rubens",
+  "name": "Peter Paul Rubens",
+  "title": "The Elevation of the Cross",
+  "collection": "Onze-Lieve-Vrouwekathedraal",
+  "mats": [
+   "Panel",
+   "Oakwood",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.355,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Flanders",
+  "aStart": 1577,
+  "aEnd": 1640
+ },
+ {
+  "id": "art-diego-velazquez-las-meninas",
+  "artist": "artist-diego-velazquez",
+  "name": "Diego Velázquez",
+  "title": "Las Meninas",
+  "titleEl": "Λας Μενίνας",
+  "year": 1656,
+  "label": "1656",
+  "collection": "Museo del Prado",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.869,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Spain",
+  "aStart": 1599,
+  "aEnd": 1660
+ },
+ {
+  "id": "art-francisco-de-zurbaran-agnus-dei",
+  "artist": "artist-francisco-de-zurbaran",
+  "name": "Francisco de Zurbarán",
+  "title": "Agnus Dei",
+  "collection": "Museo del Prado",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.687,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Spain",
+  "aStart": 1598,
+  "aEnd": 1664
+ },
+ {
+  "id": "art-claude-lorrain-seaport-with-the-embarkation-of-saint-ursula",
+  "artist": "artist-claude-lorrain",
+  "name": "Claude Lorrain",
+  "title": "Seaport with the Embarkation of Saint Ursula",
+  "year": 1641,
+  "label": "1641",
+  "collection": "National Gallery",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.323,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1600,
+  "aEnd": 1682
+ },
+ {
+  "id": "art-judith-leyster-the-proposition",
+  "artist": "artist-judith-leyster",
+  "name": "Judith Leyster",
+  "title": "The Proposition",
+  "year": 1631,
+  "label": "1631",
+  "collection": "Mauritshuis",
+  "mats": [
+   "Panel",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.782,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Netherlands",
+  "aStart": 1609,
+  "aEnd": 1660
+ },
+ {
+  "id": "art-rachel-ruysch-still-life-with-flowers-on-a-marble-slab",
+  "artist": "artist-rachel-ruysch",
+  "name": "Rachel Ruysch",
+  "title": "Still Life with Flowers on a Marble Slab",
+  "year": 1716,
+  "label": "1716",
+  "collection": "Rijksmuseum",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.782,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Netherlands",
+  "aStart": 1664,
+  "aEnd": 1750
+ },
+ {
+  "id": "art-jean-antoine-watteau-the-embarkation-for-cythera",
+  "artist": "artist-jean-antoine-watteau",
+  "name": "Jean-Antoine Watteau",
+  "title": "The Embarkation for Cythera",
+  "titleEl": "Επιβίβαση για τα Κύθηρα",
+  "collection": "Department of Paintings of the Louvre",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.525,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1684,
+  "aEnd": 1721
+ },
+ {
+  "id": "art-jean-honore-fragonard-the-swing",
+  "artist": "artist-jean-honore-fragonard",
+  "name": "Jean-Honoré Fragonard",
+  "title": "The Swing",
+  "collection": "Wallace Collection",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.797,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1732,
+  "aEnd": 1806
+ },
+ {
+  "id": "art-elisabeth-vigee-le-brun-marie-antoinette-and-her-children",
+  "artist": "artist-elisabeth-vigee-le-brun",
+  "name": "Élisabeth Vigée Le Brun",
+  "title": "Marie Antoinette and Her Children",
+  "year": 1787,
+  "label": "1787",
+  "collection": "Musée de l'Histoire de France",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 0.781,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1755,
+  "aEnd": 1842
+ },
+ {
+  "id": "art-jacques-louis-david-the-death-of-socrates",
+  "artist": "artist-jacques-louis-david",
+  "name": "Jacques-Louis David",
+  "title": "The Death of Socrates",
+  "titleEl": "Ο Θάνατος του Σωκράτη",
+  "collection": "Metropolitan Museum of Art",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.502,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1748,
+  "aEnd": 1825
+ },
+ {
+  "id": "art-jean-auguste-dominique-ingres-grande-odalisque",
+  "artist": "artist-jean-auguste-dominique-ingres",
+  "name": "Jean-Auguste-Dominique Ingres",
+  "title": "Grande Odalisque",
+  "titleEl": "Η μεγάλη οδαλίσκη",
+  "year": 1814,
+  "label": "1814",
+  "collection": "Department of Paintings of the Louvre",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.792,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1780,
+  "aEnd": 1867
+ },
+ {
+  "id": "art-antonio-canova-psyche-revived-by-cupids-kiss",
+  "artist": "artist-antonio-canova",
+  "name": "Antonio Canova",
+  "title": "Psyche Revived by Cupid's Kiss",
+  "titleEl": "Έρως και Ψυχή",
+  "year": 1794,
+  "label": "1794",
+  "collection": "Department of Sculptures of the Louvre",
+  "mats": [
+   "Marble"
+  ],
+  "kind": "statue",
+  "ratio": 1.148,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1757,
+  "aEnd": 1822
+ },
+ {
+  "id": "art-francisco-goya-the-third-of-may-1808",
+  "artist": "artist-francisco-goya",
+  "name": "Francisco Goya",
+  "title": "The Third of May 1808",
+  "titleEl": "Η 3η Μαΐου 1808",
+  "year": 1814,
+  "label": "1814",
+  "collection": "Museo del Prado",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.311,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Spain",
+  "aStart": 1746,
+  "aEnd": 1828
+ },
+ {
+  "id": "art-eugene-delacroix-liberty-leading-the-people",
+  "artist": "artist-eugene-delacroix",
+  "name": "Eugène Delacroix",
+  "title": "Liberty Leading the People",
+  "titleEl": "Η Ελευθερία οδηγεί το Λαό",
+  "year": 1830,
+  "label": "1830",
+  "collection": "Department of Paintings of the Louvre",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.25,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1798,
+  "aEnd": 1863
+ },
+ {
+  "id": "art-theodore-gericault-the-raft-of-the-medusa",
+  "artist": "artist-theodore-gericault",
+  "name": "Théodore Géricault",
+  "title": "The Raft of the Medusa",
+  "titleEl": "Η Σχεδία της Μέδουσας",
+  "collection": "Department of Paintings of the Louvre",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.465,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1791,
+  "aEnd": 1824
+ },
+ {
+  "id": "art-caspar-david-friedrich-wanderer-above-the-sea-of-fog",
+  "artist": "artist-caspar-david-friedrich",
+  "name": "Caspar David Friedrich",
+  "title": "Wanderer above the Sea of Fog",
+  "titleEl": "Οδοιπόρος επάνω από τη θάλασσα της ομίχλης",
+  "year": 1818,
+  "label": "1818",
+  "collection": "Hamburger Kunsthalle",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.785,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Germany",
+  "aStart": 1774,
+  "aEnd": 1840
+ },
+ {
+  "id": "art-j-m-w-turner-rain-steam-and-speed-the-great-western-railway",
+  "artist": "artist-j-m-w-turner",
+  "name": "J. M. W. Turner",
+  "title": "Rain, Steam and Speed – The Great Western Railway",
+  "year": 1844,
+  "label": "1844",
+  "collection": "National Gallery",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.332,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "United Kingdom",
+  "aStart": 1775,
+  "aEnd": 1851
+ },
+ {
+  "id": "art-john-constable-the-hay-wain",
+  "artist": "artist-john-constable",
+  "name": "John Constable",
+  "title": "The Hay Wain",
+  "titleEl": "Το κάρο του σανού",
+  "year": 1821,
+  "label": "1821",
+  "collection": "National Gallery",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.45,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "United Kingdom",
+  "aStart": 1776,
+  "aEnd": 1837
+ },
+ {
+  "id": "art-william-blake-songs-of-innocence-and-of-experience",
+  "artist": "artist-william-blake",
+  "name": "William Blake",
+  "title": "Songs of Innocence and of Experience",
+  "mats": [
+   "Ink",
+   "Brown ink",
+   "Wove paper",
+   "Watercolor paint"
+  ],
+  "kind": "etching print",
+  "ratio": 0.634,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "United Kingdom",
+  "aStart": 1757,
+  "aEnd": 1827
+ },
+ {
+  "id": "art-henry-fuseli-the-nightmare",
+  "artist": "artist-henry-fuseli",
+  "name": "Henry Fuseli",
+  "title": "The Nightmare",
+  "titleEl": "Ο Εφιάλτης",
+  "collection": "Detroit Institute of Arts",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.234,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Switzerland / United Kingdom",
+  "aStart": 1741,
+  "aEnd": 1825
+ },
+ {
+  "id": "art-gustave-courbet-lorigine-du-monde",
+  "artist": "artist-gustave-courbet",
+  "name": "Gustave Courbet",
+  "title": "L'Origine du monde",
+  "titleEl": "Η προέλευση του κόσμου",
+  "year": 1866,
+  "label": "1866",
+  "collection": "Musée d'Orsay",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.207,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1819,
+  "aEnd": 1877
+ },
+ {
+  "id": "art-jean-francois-millet-the-gleaners",
+  "artist": "artist-jean-francois-millet",
+  "name": "Jean-François Millet",
+  "title": "The Gleaners",
+  "year": 1857,
+  "label": "1857",
+  "collection": "Musée d'Orsay",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.336,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1814,
+  "aEnd": 1875
+ },
+ {
+  "id": "art-honore-daumier-the-third-class-carriage",
+  "artist": "artist-honore-daumier",
+  "name": "Honoré Daumier",
+  "title": "The Third-Class Carriage",
+  "year": 1860,
+  "label": "1860s",
+  "collection": "Metropolitan Museum of Art",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.383,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1808,
+  "aEnd": 1879
+ },
+ {
+  "id": "art-edouard-manet-luncheon-on-the-grass",
+  "artist": "artist-edouard-manet",
+  "name": "Édouard Manet",
+  "title": "Luncheon on the Grass",
+  "titleEl": "Πρόγευμα στη χλόη",
+  "year": 1863,
+  "label": "1863",
+  "collection": "Musée d'Orsay",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.287,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1832,
+  "aEnd": 1883
+ },
+ {
+  "id": "art-edgar-degas-labsinthe",
+  "artist": "artist-edgar-degas",
+  "name": "Edgar Degas",
+  "title": "L'Absinthe",
+  "collection": "Musée d'Orsay",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.729,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1834,
+  "aEnd": 1917
+ },
+ {
+  "id": "art-berthe-morisot-the-cradle",
+  "artist": "artist-berthe-morisot",
+  "name": "Berthe Morisot",
+  "title": "The Cradle",
+  "year": 1872,
+  "label": "1872",
+  "collection": "Musée d'Orsay",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 0.821,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1841,
+  "aEnd": 1895
+ },
+ {
+  "id": "art-mary-cassatt-the-childs-bath",
+  "artist": "artist-mary-cassatt",
+  "name": "Mary Cassatt",
+  "title": "The Child's Bath",
+  "titleEl": "Το Μπάνιο του Παιδιού",
+  "year": 1893,
+  "label": "1893",
+  "collection": "Art Institute of Chicago",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 0.656,
+  "regions": [
+   "north-america"
+  ],
+  "periods": [],
+  "origin": "United States",
+  "aStart": 1844,
+  "aEnd": 1926
+ },
+ {
+  "id": "art-gustave-caillebotte-paris-street-rainy-day",
+  "artist": "artist-gustave-caillebotte",
+  "name": "Gustave Caillebotte",
+  "title": "Paris Street; Rainy Day",
+  "titleEl": "Δρόμος του Παρισιού, βροχερή μέρα",
+  "year": 1877,
+  "label": "1877",
+  "collection": "Art Institute of Chicago",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.288,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1848,
+  "aEnd": 1894
+ },
+ {
+  "id": "art-georges-seurat-a-sunday-afternoon-on-the-island-of-la-grande",
+  "artist": "artist-georges-seurat",
+  "name": "Georges Seurat",
+  "title": "A Sunday Afternoon on the Island of La Grande Jatte",
+  "year": 1884,
+  "label": "1884",
+  "collection": "Art Institute of Chicago",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.502,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1859,
+  "aEnd": 1891
+ },
+ {
+  "id": "art-henri-de-toulouse-lautrec-at-the-moulin-rouge",
+  "artist": "artist-henri-de-toulouse-lautrec",
+  "name": "Henri de Toulouse-Lautrec",
+  "title": "At the Moulin Rouge",
+  "titleEl": "Στο Μουλέν Ρουζ",
+  "year": 1892,
+  "label": "1892",
+  "collection": "Art Institute of Chicago",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.144,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1864,
+  "aEnd": 1901
+ },
+ {
+  "id": "art-edvard-munch-the-scream",
+  "artist": "artist-edvard-munch",
+  "name": "Edvard Munch",
+  "title": "The Scream",
+  "titleEl": "Η Κραυγή",
+  "collection": "National Museum of Art, Architecture and Design",
+  "mats": [
+   "Cardboard",
+   "Wax crayon",
+   "Oil paint",
+   "Tempera"
+  ],
+  "kind": "group of paintings",
+  "ratio": 0.806,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Norway",
+  "aStart": 1863,
+  "aEnd": 1944
+ },
+ {
+  "id": "art-gustav-klimt-the-kiss",
+  "artist": "artist-gustav-klimt",
+  "name": "Gustav Klimt",
+  "title": "The Kiss",
+  "titleEl": "Το Φιλί",
+  "year": 1907,
+  "label": "1907",
+  "collection": "Belvedere",
+  "mats": [
+   "Canvas",
+   "Gold leaf",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.997,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Austria",
+  "aStart": 1862,
+  "aEnd": 1918
+ },
+ {
+  "id": "art-egon-schiele-portrait-of-wally",
+  "artist": "artist-egon-schiele",
+  "name": "Egon Schiele",
+  "title": "Portrait of Wally",
+  "titleEl": "Πορτραίτο της Wally",
+  "year": 1912,
+  "label": "1912",
+  "collection": "Leopold Museum",
+  "mats": [
+   "Panel",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.231,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Austria",
+  "aStart": 1890,
+  "aEnd": 1918
+ },
+ {
+  "id": "art-james-mcneill-whistler-whistlers-mother",
+  "artist": "artist-james-mcneill-whistler",
+  "name": "James McNeill Whistler",
+  "title": "Whistler's Mother",
+  "titleEl": "Διάταξη σε Γκρι και Μαύρο Νο 1 (πίνακας)",
+  "year": 1871,
+  "label": "1871",
+  "collection": "Musée d'Orsay",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.124,
+  "regions": [
+   "north-america",
+   "europe"
+  ],
+  "periods": [],
+  "origin": "United States / United Kingdom",
+  "aStart": 1834,
+  "aEnd": 1903
+ },
+ {
+  "id": "art-john-singer-sargent-madame-x-virginie-amelie-avegno-gautreau",
+  "artist": "artist-john-singer-sargent",
+  "name": "John Singer Sargent",
+  "title": "Madame X (Virginie Amélie Avegno Gautreau)",
+  "year": 1884,
+  "label": "1884",
+  "collection": "Metropolitan Museum of Art",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 0.528,
+  "regions": [
+   "north-america"
+  ],
+  "periods": [],
+  "origin": "United States",
+  "aStart": 1856,
+  "aEnd": 1925
+ },
+ {
+  "id": "art-winslow-homer-breezing-up",
+  "artist": "artist-winslow-homer",
+  "name": "Winslow Homer",
+  "title": "Breezing Up",
+  "year": 1873,
+  "label": "1873",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.589,
+  "regions": [
+   "north-america"
+  ],
+  "periods": [],
+  "origin": "United States",
+  "aStart": 1836,
+  "aEnd": 1910
+ },
+ {
+  "id": "art-henri-matisse-dance",
+  "artist": "artist-henri-matisse",
+  "name": "Henri Matisse",
+  "title": "Dance",
+  "year": 1910,
+  "label": "1910",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting series",
+  "ratio": 1.452,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1869,
+  "aEnd": 1954
+ },
+ {
+  "id": "art-robert-delaunay-rhythms",
+  "artist": "artist-robert-delaunay",
+  "name": "Robert Delaunay",
+  "title": "Rhythms",
+  "titleEl": "Ρυθμοί",
+  "year": 1934,
+  "label": "1934",
+  "collection": "Musée National d'Art Moderne",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.78,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1885,
+  "aEnd": 1941
+ },
+ {
+  "id": "art-franz-marc-the-tower-of-blue-horses",
+  "artist": "artist-franz-marc",
+  "name": "Franz Marc",
+  "title": "The Tower of Blue Horses",
+  "collection": "\"degenerate art\" collection",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 0.638,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Germany",
+  "aStart": 1880,
+  "aEnd": 1916
+ },
+ {
+  "id": "art-paul-klee-angelus-novus",
+  "artist": "artist-paul-klee",
+  "name": "Paul Klee",
+  "title": "Angelus Novus",
+  "year": 1920,
+  "label": "1920",
+  "collection": "Israel Museum",
+  "mats": [
+   "Paper",
+   "India ink",
+   "Watercolor paint",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.823,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Switzerland / Germany",
+  "aStart": 1879,
+  "aEnd": 1940
+ },
+ {
+  "id": "art-ernst-ludwig-kirchner-berlin-street-scene",
+  "artist": "artist-ernst-ludwig-kirchner",
+  "name": "Ernst Ludwig Kirchner",
+  "title": "Berlin Street Scene",
+  "titleEl": "Σκηνή σε δρόμο του Βερολίνου",
+  "year": 1913,
+  "label": "1913",
+  "collection": "Neue Galerie",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 0.738,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Germany",
+  "aStart": 1880,
+  "aEnd": 1938
+ },
+ {
+  "id": "art-kathe-kollwitz-mourning-parents",
+  "artist": "artist-kathe-kollwitz",
+  "name": "Käthe Kollwitz",
+  "title": "Mourning Parents",
+  "mats": [
+   "Granite"
+  ],
+  "kind": "sculpture",
+  "ratio": 1.372,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Germany",
+  "aStart": 1867,
+  "aEnd": 1945
+ },
+ {
+  "id": "art-amedeo-modigliani-nu-couche",
+  "artist": "artist-amedeo-modigliani",
+  "name": "Amedeo Modigliani",
+  "title": "Nu couché",
+  "year": 1910,
+  "label": "1910s",
+  "collection": "Riccardo Gualino Collection (1910-1930)",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.588,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy / France",
+  "aStart": 1884,
+  "aEnd": 1920
+ },
+ {
+  "id": "art-umberto-boccioni-unique-forms-of-continuity-in-space",
+  "artist": "artist-umberto-boccioni",
+  "name": "Umberto Boccioni",
+  "title": "Unique Forms of Continuity in Space",
+  "collection": "Israel Museum",
+  "mats": [
+   "Bronze"
+  ],
+  "kind": "sculpture",
+  "ratio": 0.667,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1882,
+  "aEnd": 1916
+ },
+ {
+  "id": "art-kazimir-malevich-black-square-1915",
+  "artist": "artist-kazimir-malevich",
+  "name": "Kazimir Malevich",
+  "title": "Black Square (1915)",
+  "year": 1915,
+  "label": "1915",
+  "collection": "Tretyakov Gallery",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 0.997,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Ukraine / Russian Empire",
+  "aStart": 1879,
+  "aEnd": 1935
+ },
+ {
+  "id": "art-el-lissitzky-beat-the-whites-with-the-red-wedge",
+  "artist": "artist-el-lissitzky",
+  "name": "El Lissitzky",
+  "title": "Beat the Whites with the Red Wedge",
+  "titleEl": "Νίκησε τους Λευκούς με την κόκκινη σφήνα",
+  "year": 1919,
+  "label": "1919",
+  "mats": [
+   "Lithography"
+  ],
+  "kind": "",
+  "ratio": 1.25,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Russian Empire / Soviet Union",
+  "aStart": 1890,
+  "aEnd": 1941
+ },
+ {
+  "id": "art-lyubov-popova-portrait-of-a-philosopher",
+  "artist": "artist-lyubov-popova",
+  "name": "Lyubov Popova",
+  "title": "Portrait of a Philosopher",
+  "year": 1915,
+  "label": "1915",
+  "collection": "Russian Museum",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 0.703,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Russian Empire / Soviet Union",
+  "aStart": 1889,
+  "aEnd": 1924
+ },
+ {
+  "id": "art-piet-mondrian-broadway-boogie-woogie",
+  "artist": "artist-piet-mondrian",
+  "name": "Piet Mondrian",
+  "title": "Broadway Boogie Woogie",
+  "year": 1942,
+  "label": "1942",
+  "collection": "Museum of Modern Art",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 0.998,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Netherlands",
+  "aStart": 1872,
+  "aEnd": 1944
+ },
+ {
+  "id": "art-gu-kaizhi-admonitions-scroll",
+  "artist": "artist-gu-kaizhi",
+  "name": "Gu Kaizhi",
+  "title": "Admonitions Scroll",
+  "collection": "British Museum",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 1.535,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 344,
+  "aEnd": 406
+ },
+ {
+  "id": "art-wu-daozi-guanyin-and-child",
+  "artist": "artist-wu-daozi",
+  "name": "Wu Daozi",
+  "title": "Guanyin and Child",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 0.681,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 710,
+  "aEnd": 760
+ },
+ {
+  "id": "art-wang-wei-winter-landscape",
+  "artist": "artist-wang-wei",
+  "name": "Wang Wei",
+  "title": "Winter Landscape",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 0.541,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 699,
+  "aEnd": 759
+ },
+ {
+  "id": "art-guo-xi-old-trees-level-distance",
+  "artist": "artist-guo-xi",
+  "name": "Guo Xi",
+  "title": "Old Trees, Level Distance",
+  "year": 1080,
+  "label": "1080s",
+  "collection": "Metropolitan Museum of Art",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 1.963,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 1020,
+  "aEnd": 1090
+ },
+ {
+  "id": "art-zhang-zeduan-up-the-river-during-qingming-in-brief",
+  "artist": "artist-zhang-zeduan",
+  "name": "Zhang Zeduan",
+  "title": "(Up the River During) Qingming in Brief",
+  "collection": "National Palace Museum",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 1.336,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 1085,
+  "aEnd": 1145
+ },
+ {
+  "id": "art-xia-gui-windswept-lakeshore",
+  "artist": "artist-xia-gui",
+  "name": "Xia Gui",
+  "title": "Windswept Lakeshore",
+  "year": 1250,
+  "label": "13th century",
+  "collection": "Metropolitan Museum of Art",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 0.973,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 1195,
+  "aEnd": 1230
+ },
+ {
+  "id": "art-zhao-mengfu-grooms-and-horses",
+  "artist": "artist-zhao-mengfu",
+  "name": "Zhao Mengfu",
+  "title": "Grooms and Horses",
+  "year": 1350,
+  "label": "14th century",
+  "collection": "Metropolitan Museum of Art",
+  "mats": [
+   "Handscroll",
+   "Paper",
+   "Ink"
+  ],
+  "kind": "scroll",
+  "ratio": 1.877,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 1254,
+  "aEnd": 1322
+ },
+ {
+  "id": "art-ni-zan-six-gentlemen",
+  "artist": "artist-ni-zan",
+  "name": "Ni Zan",
+  "title": "Six Gentlemen",
+  "year": 1345,
+  "label": "1345",
+  "collection": "Shanghai Museum",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 0.54,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 1301,
+  "aEnd": 1374
+ },
+ {
+  "id": "art-shen-zhou-poet-on-a-mountaintop",
+  "artist": "artist-shen-zhou",
+  "name": "Shen Zhou",
+  "title": "Poet on a Mountaintop",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 1.544,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 1427,
+  "aEnd": 1509
+ },
+ {
+  "id": "art-wen-zhengming-the-cassia-grove-studio",
+  "artist": "artist-wen-zhengming",
+  "name": "Wen Zhengming",
+  "title": "The Cassia Grove Studio",
+  "year": 1532,
+  "label": "1532",
+  "collection": "Metropolitan Museum of Art",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 1.769,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 1470,
+  "aEnd": 1559
+ },
+ {
+  "id": "art-dong-qichang-landscapes-after-old-masters",
+  "artist": "artist-dong-qichang",
+  "name": "Dong Qichang",
+  "title": "Landscapes after old masters",
+  "year": 1630,
+  "label": "1630",
+  "collection": "Metropolitan Museum of Art",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 0.661,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 1555,
+  "aEnd": 1636
+ },
+ {
+  "id": "art-bada-shanren-lotus-and-ducks",
+  "artist": "artist-bada-shanren",
+  "name": "Bada Shanren",
+  "title": "Lotus and Ducks",
+  "year": 1696,
+  "label": "1696",
+  "collection": "Freer Gallery of Art",
+  "mats": [
+   "Paper",
+   "Ink"
+  ],
+  "kind": "painting",
+  "ratio": 0.546,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 1626,
+  "aEnd": 1705
+ },
+ {
+  "id": "art-shitao-the-sixteen-luohans",
+  "artist": "artist-shitao",
+  "name": "Shitao",
+  "title": "The Sixteen Luohans",
+  "year": 1667,
+  "label": "1667",
+  "collection": "Metropolitan Museum of Art",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 1.333,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 1642,
+  "aEnd": 1707
+ },
+ {
+  "id": "art-xu-beihong-put-down-your-whip",
+  "artist": "artist-xu-beihong",
+  "name": "Xu Beihong",
+  "title": "Put Down Your Whip",
+  "year": 1939,
+  "label": "1939",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 0.625,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "China",
+  "aStart": 1895,
+  "aEnd": 1953
+ },
+ {
+  "id": "art-kitagawa-utamaro-three-beauties-of-the-present-day",
+  "artist": "artist-kitagawa-utamaro",
+  "name": "Kitagawa Utamaro",
+  "title": "Three Beauties of the Present Day",
+  "year": 1790,
+  "label": "1790s",
+  "mats": [],
+  "kind": "woodcut print",
+  "ratio": 0.683,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "Japan",
+  "aStart": 1753,
+  "aEnd": 1806
+ },
+ {
+  "id": "art-suzuki-harunobu-by-the-sea",
+  "artist": "artist-suzuki-harunobu",
+  "name": "Suzuki Harunobu",
+  "title": "By the Sea",
+  "year": 1760,
+  "label": "1760s",
+  "collection": "Finnish National Gallery",
+  "mats": [],
+  "kind": "woodcut print",
+  "ratio": 0.719,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "Japan",
+  "aStart": 1725,
+  "aEnd": 1770
+ },
+ {
+  "id": "art-sesshu-toyo-haboku-sansui",
+  "artist": "artist-sesshu-toyo",
+  "name": "Sesshū Tōyō",
+  "title": "Haboku sansui",
+  "year": 1495,
+  "label": "1495",
+  "collection": "Tokyo National Museum",
+  "mats": [
+   "Ink",
+   "Paper"
+  ],
+  "kind": "",
+  "ratio": 0.647,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "Japan",
+  "aStart": 1420,
+  "aEnd": 1506
+ },
+ {
+  "id": "art-kano-eitoku-chinese-lions",
+  "artist": "artist-kano-eitoku",
+  "name": "Kanō Eitoku",
+  "title": "Chinese Lions",
+  "collection": "Museum of the Imperial Collections",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 2.021,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "Japan",
+  "aStart": 1543,
+  "aEnd": 1590
+ },
+ {
+  "id": "art-ito-jakuchu-colorful-realm-of-living-beings",
+  "artist": "artist-ito-jakuchu",
+  "name": "Itō Jakuchū",
+  "title": "Colorful Realm of Living Beings",
+  "year": 1750,
+  "label": "18th century",
+  "collection": "Museum of the Imperial Collections",
+  "mats": [],
+  "kind": "painting series",
+  "ratio": 0.582,
+  "regions": [
+   "east-asia"
+  ],
+  "periods": [],
+  "origin": "Japan",
+  "aStart": 1716,
+  "aEnd": 1800
+ },
+ {
+  "id": "art-raja-ravi-varma-tilottama",
+  "artist": "artist-raja-ravi-varma",
+  "name": "Raja Ravi Varma",
+  "title": "Tilottama",
+  "year": 1896,
+  "label": "1896",
+  "mats": [
+   "Chromolithography",
+   "Chromolithograph"
+  ],
+  "kind": "painting",
+  "ratio": 0.73,
+  "regions": [
+   "south-asia"
+  ],
+  "periods": [],
+  "origin": "India",
+  "aStart": 1848,
+  "aEnd": 1906
+ },
+ {
+  "id": "art-abanindranath-tagore-bharat-mata",
+  "artist": "artist-abanindranath-tagore",
+  "name": "Abanindranath Tagore",
+  "title": "Bharat Mata",
+  "year": 1905,
+  "label": "1905",
+  "collection": "Victoria Memorial",
+  "mats": [
+   "Paper",
+   "Watercolor paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.541,
+  "regions": [
+   "south-asia"
+  ],
+  "periods": [],
+  "origin": "India",
+  "aStart": 1871,
+  "aEnd": 1951
+ },
+ {
+  "id": "art-kamal-ud-din-behzad-seduction-of-yusuf",
+  "artist": "artist-kamal-ud-din-behzad",
+  "name": "Kamāl ud-Dīn Behzād",
+  "title": "Seduction of Yusuf",
+  "year": 1488,
+  "label": "1488",
+  "collection": "Persian Illustrated and Illuminated Manuscripts (Egyptian National Library)",
+  "mats": [
+   "Ink",
+   "Watercolor paint",
+   "Paper"
+  ],
+  "kind": "manuscript illumination",
+  "ratio": 0.67,
+  "regions": [
+   "west-asia-north-africa"
+  ],
+  "periods": [],
+  "origin": "Herat / Timurid tradition",
+  "aStart": 1450,
+  "aEnd": 1535
+ },
+ {
+  "id": "art-reza-abbasi-the-lovers",
+  "artist": "artist-reza-abbasi",
+  "name": "Reza Abbasi",
+  "title": "The Lovers",
+  "year": 1630,
+  "label": "1630",
+  "collection": "Metropolitan Museum of Art",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 0.659,
+  "regions": [
+   "west-asia-north-africa"
+  ],
+  "periods": [],
+  "origin": "Safavid Iran",
+  "aStart": 1565,
+  "aEnd": 1635
+ },
+ {
+  "id": "art-mir-sayyid-ali-majnun-brought-in-chains-by-the-old-woman-to",
+  "artist": "artist-mir-sayyid-ali",
+  "name": "Mir Sayyid Ali",
+  "title": "Majnun brought in chains by the old woman to Layla’s tent",
+  "collection": "British Library",
+  "mats": [],
+  "kind": "",
+  "ratio": 0.594,
+  "regions": [
+   "west-asia-north-africa",
+   "south-asia"
+  ],
+  "periods": [],
+  "origin": "Persia / Mughal India",
+  "aStart": 1530,
+  "aEnd": 1570
+ },
+ {
+  "id": "art-abd-al-samad-jamshid-writing-on-a-rock",
+  "artist": "artist-abd-al-samad",
+  "name": "Abd al-Samad",
+  "title": "Jamshid Writing on a Rock",
+  "year": 1580,
+  "label": "1580s",
+  "collection": "Freer Gallery of Art",
+  "mats": [
+   "Watercolor paint",
+   "Paper",
+   "Gold",
+   "Ink"
+  ],
+  "kind": "watercolor painting",
+  "ratio": 0.627,
+  "regions": [
+   "west-asia-north-africa",
+   "south-asia"
+  ],
+  "periods": [],
+  "origin": "Persia / Mughal India",
+  "aStart": 1540,
+  "aEnd": 1595
+ },
+ {
+  "id": "art-basawan-a-muslim-pilgrim-learns-a-lesson-in-piety-from-a-bra",
+  "artist": "artist-basawan",
+  "name": "Basawan",
+  "title": "\"A Muslim Pilgrim Learns a Lesson in Piety from a Brahman\", Folio from a Khamsa (Quintet) of Amir Khusrau Dihlavi",
+  "collection": "Metropolitan Museum of Art",
+  "mats": [],
+  "kind": "manuscript illumination",
+  "ratio": 0.836,
+  "regions": [
+   "south-asia"
+  ],
+  "periods": [],
+  "origin": "Mughal India",
+  "aStart": 1580,
+  "aEnd": 1600
+ },
+ {
+  "id": "art-osman-hamdi-bey-the-tortoise-trainer",
+  "artist": "artist-osman-hamdi-bey",
+  "name": "Osman Hamdi Bey",
+  "title": "The Tortoise Trainer",
+  "titleEl": "Ο Εκπαιδευτής της Χελώνας",
+  "year": 1906,
+  "label": "1906",
+  "collection": "Suna and İnan Kıraç Foundation",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 0.535,
+  "regions": [
+   "west-asia-north-africa"
+  ],
+  "periods": [],
+  "origin": "Ottoman Empire",
+  "aStart": 1842,
+  "aEnd": 1910
+ },
+ {
+  "id": "art-mahmoud-mokhtar-renascence-of-egypt",
+  "artist": "artist-mahmoud-mokhtar",
+  "name": "Mahmoud Mokhtar",
+  "title": "Renascence of Egypt",
+  "year": 1928,
+  "label": "1928",
+  "mats": [],
+  "kind": "",
+  "ratio": 0.854,
+  "regions": [
+   "west-asia-north-africa"
+  ],
+  "periods": [],
+  "origin": "Egypt",
+  "aStart": 1891,
+  "aEnd": 1934
+ },
+ {
+  "id": "art-frida-kahlo-self-portrait-dedicated-to-leon-trotsky",
+  "artist": "artist-frida-kahlo",
+  "name": "Frida Kahlo",
+  "title": "Self-Portrait Dedicated to Leon Trotsky",
+  "year": 1937,
+  "label": "1937",
+  "collection": "National Museum of Women in the Arts",
+  "mats": [
+   "Masonite",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.788,
+  "regions": [
+   "central-america-caribbean"
+  ],
+  "periods": [],
+  "origin": "Mexico",
+  "aStart": 1907,
+  "aEnd": 1954
+ },
+ {
+  "id": "art-jose-clemente-orozco-the-epic-of-american-civilization",
+  "artist": "artist-jose-clemente-orozco",
+  "name": "José Clemente Orozco",
+  "title": "The Epic of American Civilization",
+  "year": 1930,
+  "label": "1930s",
+  "collection": "Hood Museum of Art",
+  "mats": [],
+  "kind": "",
+  "ratio": 1.333,
+  "regions": [
+   "central-america-caribbean"
+  ],
+  "periods": [],
+  "origin": "Mexico",
+  "aStart": 1883,
+  "aEnd": 1949
+ },
+ {
+  "id": "art-joaquin-torres-garcia-america-invertida",
+  "artist": "artist-joaquin-torres-garcia",
+  "name": "Joaquín Torres-García",
+  "title": "América Invertida",
+  "year": 1943,
+  "label": "1943",
+  "collection": "National Museum of Visual Arts",
+  "mats": [],
+  "kind": "pen and ink drawing",
+  "ratio": 0.945,
+  "regions": [
+   "south-america"
+  ],
+  "periods": [],
+  "origin": "Uruguay",
+  "aStart": 1874,
+  "aEnd": 1949
+ },
+ {
+  "id": "art-pedro-figari-pericon",
+  "artist": "artist-pedro-figari",
+  "name": "Pedro Figari",
+  "title": "Pericón",
+  "collection": "National Museum of Fine Arts, Argentina",
+  "mats": [],
+  "kind": "painting",
+  "ratio": 1.44,
+  "regions": [
+   "south-america"
+  ],
+  "periods": [],
+  "origin": "Uruguay",
+  "aStart": 1861,
+  "aEnd": 1938
+ },
+ {
+  "id": "art-charles-rennie-mackintosh-glasgow-school-of-art",
+  "artist": "artist-charles-rennie-mackintosh",
+  "name": "Charles Rennie Mackintosh",
+  "title": "Glasgow School of Art",
+  "titleEl": "Σχολή τεχνών της Γλασκόβης",
+  "mats": [],
+  "kind": "",
+  "ratio": 1.298,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "United Kingdom",
+  "aStart": 1868,
+  "aEnd": 1928
+ },
+ {
+  "id": "art-antoni-gaudi-basilica-and-expiatory-church-of-the-holy-famil",
+  "artist": "artist-antoni-gaudi",
+  "name": "Antoni Gaudí",
+  "title": "Basilica and Expiatory Church of the Holy Family",
+  "titleEl": "Σαγράδα Φαμίλια",
+  "year": 1882,
+  "label": "1882",
+  "mats": [
+   "Stone",
+   "Glass",
+   "Wood",
+   "Concrete"
+  ],
+  "kind": "",
+  "ratio": 1.449,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Spain",
+  "aStart": 1852,
+  "aEnd": 1926
+ },
+ {
+  "id": "art-leonardo-da-vinci-the-last-supper",
+  "artist": "artist-leonardo",
+  "name": "Leonardo da Vinci",
+  "title": "The Last Supper",
+  "titleEl": "Ο Μυστικός Δείπνος",
+  "year": 1490,
+  "label": "1490s",
+  "collection": "Santa Maria delle Grazie",
+  "mats": [
+   "Gesso",
+   "Tempera",
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "wall painting",
+  "ratio": 1.919,
+  "regions": [
+   "europe"
+  ],
+  "periods": [
+   "per-era-early-modern"
+  ],
+  "origin": "Italy",
+  "aStart": 1452,
+  "aEnd": 1519
+ },
+ {
+  "id": "art-leonardo-da-vinci-vitruvian-man",
+  "artist": "artist-leonardo",
+  "name": "Leonardo da Vinci",
+  "title": "Vitruvian Man",
+  "titleEl": "Άνθρωπος του Βιτρούβιου",
+  "year": 1490,
+  "label": "1490",
+  "collection": "Gallerie dell'Accademia",
+  "mats": [],
+  "kind": "drawing",
+  "ratio": 0.736,
+  "regions": [
+   "europe"
+  ],
+  "periods": [
+   "per-era-early-modern"
+  ],
+  "origin": "Italy",
+  "aStart": 1452,
+  "aEnd": 1519
+ },
+ {
+  "id": "art-francisco-goya-saturn-devouring-his-son",
+  "artist": "artist-francisco-goya",
+  "name": "Francisco Goya",
+  "title": "Saturn Devouring His Son",
+  "titleEl": "Ο Κρόνος καταβροχθίζει τον γιο του",
+  "collection": "Museo del Prado",
+  "mats": [
+   "Canvas",
+   "Wall",
+   "Mixed technique"
+  ],
+  "kind": "painting",
+  "ratio": 0.544,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Spain",
+  "aStart": 1746,
+  "aEnd": 1828,
+  "year": 1819,
+  "label": "c. 1819 – 1823"
+ },
+ {
+  "id": "art-wassily-kandinsky-composition-viii",
+  "artist": "artist-wassily-kandinsky",
+  "name": "Wassily Kandinsky",
+  "title": "Composition VIII",
+  "year": 1923,
+  "label": "1923",
+  "collection": "Solomon R. Guggenheim Museum",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.373,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Russia",
+  "aStart": 1866,
+  "aEnd": 1944
+ },
+ {
+  "id": "art-jacques-louis-david-the-death-of-marat",
+  "artist": "artist-jacques-louis-david",
+  "name": "Jacques-Louis David",
+  "title": "The Death of Marat",
+  "titleEl": "Ο θάνατος του Μαρά",
+  "year": 1793,
+  "label": "1793",
+  "collection": "Royal Museums of Fine Arts of Belgium",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.777,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1748,
+  "aEnd": 1825
+ },
+ {
+  "id": "art-jacques-louis-david-the-oath-of-the-horatii",
+  "artist": "artist-jacques-louis-david",
+  "name": "Jacques-Louis David",
+  "title": "The Oath of the Horatii",
+  "titleEl": "Ο όρκος των Ορατίων",
+  "year": 1784,
+  "label": "1784",
+  "collection": "Department of Paintings of the Louvre",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.29,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1748,
+  "aEnd": 1825
+ },
+ {
+  "id": "art-edouard-manet-olympia",
+  "artist": "artist-edouard-manet",
+  "name": "Édouard Manet",
+  "title": "Olympia",
+  "titleEl": "Ολυμπία",
+  "year": 1863,
+  "label": "1863",
+  "collection": "Musée d'Orsay",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.468,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1832,
+  "aEnd": 1883
+ },
+ {
+  "id": "art-edouard-manet-a-bar-at-the-folies-bergere",
+  "artist": "artist-edouard-manet",
+  "name": "Édouard Manet",
+  "title": "A Bar at the Folies-Bergère",
+  "year": 1882,
+  "label": "1882",
+  "collection": "Courtauld Gallery",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.344,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1832,
+  "aEnd": 1883
+ },
+ {
+  "id": "art-paul-cezanne-the-card-players",
+  "artist": "artist-paul-cezanne",
+  "name": "Paul Cézanne",
+  "title": "The Card Players",
+  "titleEl": "Οι Χαρτοπαίκτες",
+  "year": 1890,
+  "label": "1890s",
+  "collection": "Courtauld Institute of Art",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.215,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1839,
+  "aEnd": 1906
+ },
+ {
+  "id": "art-paul-cezanne-mont-sainte-victoire",
+  "artist": "artist-paul-cezanne",
+  "name": "Paul Cézanne",
+  "title": "Mont Sainte-Victoire",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting series",
+  "ratio": 0.805,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1839,
+  "aEnd": 1906
+ },
+ {
+  "id": "art-pierre-auguste-renoir-bal-du-moulin-de-la-galette",
+  "artist": "artist-pierre-auguste-renoir",
+  "name": "Pierre-Auguste Renoir",
+  "title": "Bal du moulin de la Galette",
+  "year": 1876,
+  "label": "1876",
+  "collection": "Musée d'Orsay",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.345,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1841,
+  "aEnd": 1919
+ },
+ {
+  "id": "art-pierre-auguste-renoir-luncheon-of-the-boating-party",
+  "artist": "artist-pierre-auguste-renoir",
+  "name": "Pierre-Auguste Renoir",
+  "title": "Luncheon of the Boating Party",
+  "year": 1880,
+  "label": "1880s",
+  "collection": "The Phillips Collection",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.35,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1841,
+  "aEnd": 1919
+ },
+ {
+  "id": "art-sandro-botticelli-primavera",
+  "artist": "artist-sandro-botticelli",
+  "name": "Sandro Botticelli",
+  "title": "Primavera",
+  "titleEl": "Η άνοιξη",
+  "year": 1480,
+  "label": "1480s",
+  "collection": "Uffizi Gallery",
+  "mats": [
+   "Plaster",
+   "Tempera",
+   "Panel"
+  ],
+  "kind": "painting",
+  "ratio": 1.505,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1445,
+  "aEnd": 1510
+ },
+ {
+  "id": "art-giorgione-the-tempest",
+  "artist": "artist-giorgione",
+  "name": "Giorgione",
+  "title": "The Tempest",
+  "year": 1500,
+  "label": "1500s",
+  "collection": "Manfrin Collection",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.901,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1477,
+  "aEnd": 1510
+ },
+ {
+  "id": "art-piet-mondrian-composition-with-red-yellow-and-blue",
+  "artist": "artist-piet-mondrian",
+  "name": "Piet Mondrian",
+  "title": "Composition with Red, Yellow and Blue",
+  "year": 1937,
+  "label": "1937",
+  "collection": "Tate",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.948,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Netherlands",
+  "aStart": 1872,
+  "aEnd": 1944
+ },
+ {
+  "id": "art-diego-velazquez-the-surrender-of-breda",
+  "artist": "artist-diego-velazquez",
+  "name": "Diego Velázquez",
+  "title": "The Surrender of Breda",
+  "collection": "Museo del Prado",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.213,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Spain",
+  "aStart": 1599,
+  "aEnd": 1660,
+  "year": 1634,
+  "label": "1634 – 1635"
+ },
+ {
+  "id": "art-diego-velazquez-rokeby-venus",
+  "artist": "artist-diego-velazquez",
+  "name": "Diego Velázquez",
+  "title": "Rokeby Venus",
+  "year": 1644,
+  "label": "1644",
+  "collection": "National Gallery",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.458,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Spain",
+  "aStart": 1599,
+  "aEnd": 1660
+ },
+ {
+  "id": "art-rembrandt-van-rijn-the-anatomy-lesson-of-dr-nicolaes-tulp",
+  "artist": "artist-rembrandt",
+  "name": "Rembrandt van Rijn",
+  "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+  "titleEl": "Μάθημα ανατομίας του Δρ. Τουλπ",
+  "year": 1632,
+  "label": "1632",
+  "collection": "Mauritshuis",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.327,
+  "regions": [
+   "europe"
+  ],
+  "periods": [
+   "per-era-early-modern",
+   "per-dutch-golden-age"
+  ],
+  "origin": "Netherlands",
+  "aStart": 1606,
+  "aEnd": 1669
+ },
+ {
+  "id": "art-pieter-bruegel-the-elder-the-tower-of-babel",
+  "artist": "artist-pieter-bruegel-the-elder",
+  "name": "Pieter Bruegel the Elder",
+  "title": "The Tower of Babel",
+  "titleEl": "Ο Πύργος της Βαβέλ",
+  "mats": [
+   "Oil paint",
+   "Oak panel",
+   "Wood"
+  ],
+  "kind": "group of paintings",
+  "ratio": 1.249,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Flanders",
+  "aStart": 1525,
+  "aEnd": 1569,
+  "year": 1563,
+  "label": "1563"
+ },
+ {
+  "id": "art-hans-holbein-the-younger-the-body-of-the-dead-christ-in-the",
+  "artist": "artist-hans-holbein-the-younger",
+  "name": "Hans Holbein the Younger",
+  "title": "The Body of the Dead Christ in the Tomb",
+  "year": 1520,
+  "label": "1520s",
+  "collection": "Kunstmuseum Basel",
+  "mats": [
+   "Panel",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 6.69,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Germany",
+  "aStart": 1497,
+  "aEnd": 1543
+ },
+ {
+  "id": "art-gustave-courbet-a-burial-at-ornans",
+  "artist": "artist-gustave-courbet",
+  "name": "Gustave Courbet",
+  "title": "A Burial at Ornans",
+  "collection": "Musée d'Orsay",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 2.175,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1819,
+  "aEnd": 1877,
+  "year": 1849,
+  "label": "1849 – 1850"
+ },
+ {
+  "id": "art-gustave-courbet-the-painters-studio",
+  "artist": "artist-gustave-courbet",
+  "name": "Gustave Courbet",
+  "title": "The Painter's Studio",
+  "year": 1850,
+  "label": "1850s",
+  "collection": "Musée d'Orsay",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.697,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "France",
+  "aStart": 1819,
+  "aEnd": 1877
+ },
+ {
+  "id": "art-michelangelo-buonarroti-the-creation-of-adam",
+  "artist": "artist-michelangelo-buonarroti",
+  "name": "Michelangelo Buonarroti",
+  "title": "The Creation of Adam",
+  "titleEl": "Η Δημιουργία του Αδάμ",
+  "year": 1511,
+  "label": "1511",
+  "collection": "Vatican Museums",
+  "mats": [
+   "Fresco"
+  ],
+  "kind": "fresco",
+  "ratio": 2.148,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1475,
+  "aEnd": 1564
+ },
+ {
+  "id": "art-michelangelo-buonarroti-david",
+  "artist": "artist-michelangelo-buonarroti",
+  "name": "Michelangelo Buonarroti",
+  "title": "David",
+  "titleEl": "Δαβίδ του Μιχαήλ Άγγελου",
+  "year": 1500,
+  "label": "1500s",
+  "collection": "Galleria dell'Accademia",
+  "mats": [
+   "Carrara marble"
+  ],
+  "kind": "marble sculpture",
+  "ratio": 0.667,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1475,
+  "aEnd": 1564
+ },
+ {
+  "id": "art-michelangelo-buonarroti-pieta-michelangelo",
+  "artist": "artist-michelangelo-buonarroti",
+  "name": "Michelangelo Buonarroti",
+  "title": "Pietà (Michelangelo)",
+  "titleEl": "Πιετά του Μιχαήλ Άγγελου",
+  "year": 1499,
+  "label": "1499",
+  "collection": "St. Peter's Basilica",
+  "mats": [
+   "Marble"
+  ],
+  "kind": "sculpture",
+  "ratio": 0.954,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1475,
+  "aEnd": 1564
+ },
+ {
+  "id": "art-michelangelo-buonarroti-the-last-judgment",
+  "artist": "artist-michelangelo-buonarroti",
+  "name": "Michelangelo Buonarroti",
+  "title": "The Last Judgment",
+  "year": 1536,
+  "label": "1536 – 1541",
+  "collection": "Vatican Museums",
+  "mats": [
+   "Fresco"
+  ],
+  "kind": "fresco",
+  "ratio": 0.908,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1475,
+  "aEnd": 1564
+ },
+ {
+  "id": "art-titian-bacchus-and-ariadne",
+  "artist": "artist-titian",
+  "name": "Titian",
+  "title": "Bacchus and Ariadne",
+  "titleEl": "Βάκχος και Αριάδνη",
+  "year": 1520,
+  "label": "1520s",
+  "collection": "National Gallery",
+  "mats": [
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "painting",
+  "ratio": 1.105,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1488,
+  "aEnd": 1576
+ },
+ {
+  "id": "art-titian-assumption-of-the-virgin",
+  "artist": "artist-titian",
+  "name": "Titian",
+  "title": "Assumption of the Virgin",
+  "titleEl": "Ανάληψη της Θεοτόκου",
+  "collection": "Santa Maria Gloriosa dei Frari",
+  "mats": [
+   "Panel",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 0.543,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1488,
+  "aEnd": 1576,
+  "year": 1516,
+  "label": "1516 – 1518"
+ },
+ {
+  "id": "art-peter-paul-rubens-the-descent-from-the-cross",
+  "artist": "artist-peter-paul-rubens",
+  "name": "Peter Paul Rubens",
+  "title": "The Descent from the Cross",
+  "collection": "Onze-Lieve-Vrouwekathedraal",
+  "mats": [
+   "Panel",
+   "Oil paint",
+   "Canvas"
+  ],
+  "kind": "altarpiece",
+  "ratio": 0.842,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Flanders",
+  "aStart": 1577,
+  "aEnd": 1640,
+  "year": 1612,
+  "label": "1612 – 1614"
+ },
+ {
+  "id": "art-gustav-klimt-portrait-of-adele-bloch-bauer-i",
+  "artist": "artist-gustav-klimt",
+  "name": "Gustav Klimt",
+  "title": "Portrait of Adele Bloch-Bauer I",
+  "year": 1907,
+  "label": "1907",
+  "collection": "Neue Galerie",
+  "mats": [
+   "Canvas",
+   "Gold leaf",
+   "Oil paint",
+   "Gold"
+  ],
+  "kind": "painting",
+  "ratio": 1,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Austria",
+  "aStart": 1862,
+  "aEnd": 1918
+ },
+ {
+  "id": "art-william-blake-the-ancient-of-days",
+  "artist": "artist-william-blake",
+  "name": "William Blake",
+  "title": "The Ancient of Days",
+  "titleEl": "Ο Αρχαίος των Ημερών",
+  "collection": "Glasgow University Library",
+  "mats": [
+   "Ink",
+   "Paper"
+  ],
+  "kind": "etching print",
+  "ratio": 0.738,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "United Kingdom",
+  "aStart": 1757,
+  "aEnd": 1827,
+  "year": 1794,
+  "label": "1794"
+ },
+ {
+  "id": "art-jan-van-eyck-ghent-altarpiece",
+  "artist": "artist-jan-van-eyck",
+  "name": "Jan van Eyck",
+  "title": "Ghent Altarpiece",
+  "titleEl": "Πολύπτυχο της Γάνδης",
+  "year": 1432,
+  "label": "1432",
+  "collection": "Solly Collection",
+  "mats": [
+   "Oak panel",
+   "Oil paint"
+  ],
+  "kind": "painting",
+  "ratio": 1.806,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Flanders",
+  "aStart": 1390,
+  "aEnd": 1441
+ },
+ {
+  "id": "art-giotto-di-bondone-lamentation",
+  "artist": "artist-giotto-di-bondone",
+  "name": "Giotto di Bondone",
+  "title": "Lamentation",
+  "year": 1305,
+  "label": "1305",
+  "collection": "Scrovegni Chapel",
+  "mats": [
+   "Fresco"
+  ],
+  "kind": "fresco",
+  "ratio": 1.063,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Italy",
+  "aStart": 1267,
+  "aEnd": 1337
+ },
+ {
+  "id": "art-edvard-munch-madonna",
+  "artist": "artist-edvard-munch",
+  "name": "Edvard Munch",
+  "title": "Madonna",
+  "titleEl": "Μαντόνα",
+  "year": 1890,
+  "label": "1890s",
+  "mats": [
+   "Canvas",
+   "Oil paint"
+  ],
+  "kind": "painting series",
+  "ratio": 0.777,
+  "regions": [
+   "europe"
+  ],
+  "periods": [],
+  "origin": "Norway",
+  "aStart": 1863,
+  "aEnd": 1944
+ },
+ {
+  "id": "art-venus-de-milo",
+  "name": "Attributed to Alexandros of Antioch",
+  "title": "Venus de Milo",
+  "collection": "Department of Greek, Etruscan, and Roman Antiquities of the Louvre",
+  "mats": [],
+  "kind": "",
+  "ratio": 0.592,
+  "regions": [
+   "europe"
+  ],
+  "periods": [
+   "per-era-antiquity"
+  ],
+  "origin": "Greece",
+  "aStart": -500,
+  "aEnd": 1900,
+  "year": -150,
+  "label": "c. 150 – 125 BCE"
+ },
+ {
+  "id": "art-winged-victory-samothrace",
+  "name": "Unknown Hellenistic sculptor",
+  "title": "Winged Victory of Samothrace",
+  "collection": "Department of Greek, Etruscan, and Roman Antiquities of the Louvre",
+  "mats": [],
+  "kind": "",
+  "ratio": 0.753,
+  "regions": [
+   "europe"
+  ],
+  "periods": [
+   "per-era-antiquity"
+  ],
+  "origin": "Greece",
+  "aStart": -500,
+  "aEnd": 1900,
+  "year": -200,
+  "label": "c. 200 – 190 BCE"
+ },
+ {
+  "id": "art-laocoon-and-his-sons",
+  "name": "Attributed to Hagesander, Athenodoros and Polydorus of Rhodes",
+  "title": "Laocoön and His Sons",
+  "year": -150,
+  "label": "2nd century BCE – 1st century CE",
+  "collection": "Pio-Clementino museum",
+  "mats": [],
+  "kind": "",
+  "ratio": 0.92,
+  "regions": [
+   "europe"
+  ],
+  "periods": [
+   "per-era-antiquity"
+  ],
+  "origin": "Greece or Rome",
+  "aStart": -500,
+  "aEnd": 1900
+ },
+ {
+  "id": "art-the-thinker",
+  "name": "Auguste Rodin",
+  "title": "The Thinker",
+  "year": 1880,
+  "label": "1880 – 1882 (first cast 1902)",
+  "collection": "Alte Nationalgalerie",
+  "mats": [],
+  "kind": "",
+  "ratio": 0.75,
+  "regions": [
+   "europe"
+  ],
+  "periods": [
+   "per-era-modern"
+  ],
+  "origin": "France",
+  "aStart": -500,
+  "aEnd": 1900
+ },
+ {
+  "id": "art-parthenon",
+  "name": "Iktinos and Kallikrates, with sculpture overseen by Phidias",
+  "title": "The Parthenon",
+  "mats": [],
+  "kind": "",
+  "ratio": 1.423,
+  "regions": [
+   "europe"
+  ],
+  "periods": [
+   "per-classical-greece"
+  ],
+  "origin": "Greece",
+  "aStart": -500,
+  "aEnd": 1900,
+  "year": -447,
+  "label": "447 – 432 BCE"
+ },
+ {
+  "id": "art-chartres-cathedral",
+  "name": "Unknown medieval builders",
+  "title": "Chartres Cathedral",
+  "year": 1194,
+  "label": "c. 1194 – 1250",
+  "collection": "Department of Paintings of the Louvre",
+  "mats": [],
+  "kind": "",
+  "ratio": 0.794,
+  "regions": [
+   "europe"
+  ],
+  "periods": [
+   "per-era-postclassical"
+  ],
+  "origin": "France",
+  "aStart": -500,
+  "aEnd": 1900
+ },
+ {
+  "id": "art-taj-mahal",
+  "name": "Commissioned by Shah Jahan; architect traditionally Ustad Ahmad Lahori",
+  "title": "The Taj Mahal",
+  "mats": [],
+  "kind": "",
+  "ratio": 1.447,
+  "regions": [
+   "south-asia"
+  ],
+  "periods": [
+   "per-mughal"
+  ],
+  "origin": "India",
+  "aStart": -500,
+  "aEnd": 1900,
+  "year": 1632,
+  "label": "1632 – 1653"
+ },
+ {
+  "id": "art-bayeux-tapestry",
+  "name": "Unknown embroiderers, probably in England",
+  "title": "The Bayeux Tapestry",
+  "year": 1070,
+  "label": "1070s",
+  "collection": "Museum of Art and History Baron Gérard",
+  "mats": [],
+  "kind": "",
+  "ratio": 0.912,
+  "regions": [
+   "europe"
+  ],
+  "periods": [
+   "per-era-postclassical"
+  ],
+  "origin": "England or Normandy",
+  "aStart": -500,
+  "aEnd": 1900
+ },
+ {
+  "id": "art-book-of-kells",
+  "name": "Unknown monks, probably of Iona and Kells",
+  "title": "The Book of Kells",
+  "year": 800,
+  "label": "c. 800",
+  "collection": "Library of Trinity College Dublin",
+  "mats": [],
+  "kind": "",
+  "ratio": 0.751,
+  "regions": [
+   "europe"
+  ],
+  "periods": [
+   "per-era-postclassical"
+  ],
+  "origin": "Ireland or Scotland",
+  "aStart": -500,
+  "aEnd": 1900
+ }
+]

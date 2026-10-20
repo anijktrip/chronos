@@ -1,0 +1,142 @@
+import type { RelationType, Relationship } from '@/types'
+
+/**
+ * Explicit relationship records — the single source of truth for how entities connect.
+ *
+ * Rule: no relationship is inferred from two things sharing a period or a region.
+ * Every record carries a `note` explaining the documented or scholarly basis.
+ * Pages read relationships through `lib/repo.ts`; nothing is duplicated on entity records.
+ */
+let n = 0
+const r = (type: RelationType, from: string, to: string, note: string, qualifier?: string): Relationship => ({
+  id: `rel-${String(++n).padStart(3, '0')}`, type, from, to, note, ...(qualifier ? { qualifier } : {}),
+})
+
+export const relationships: Relationship[] = [
+  /* ------------------------------------------------ artwork → maker (created_by) */
+  r('created_by', 'art-doryphoros', 'artist-polykleitos', 'The Naples marble is a Roman copy of a bronze original attributed to Polykleitos by ancient writers.', 'Roman copy after the lost bronze'),
+  r('created_by', 'art-terracotta-army', 'artist-qin-workshops', 'Made by state-supervised workshops; some figures bear craftsmen’s names.'),
+  r('created_by', 'art-pakal-lid', 'artist-palenque-sculptors', 'Carved by anonymous sculptors at the court of Palenque.'),
+  r('created_by', 'art-angkor-wat', 'artist-khmer-workshops', 'Built by royal workshops under Suryavarman II; individual builders are unrecorded.'),
+  r('created_by', 'art-blue-quran', 'artist-quran-scribes', 'Scribes and workshop unknown; no colophon naming them survives.'),
+  r('created_by', 'art-travelers', 'artist-fan-kuan', 'Attributed to Fan Kuan on the strength of a signature identified in 1958.'),
+  r('created_by', 'art-mona-lisa', 'artist-leonardo', 'Universally attributed to Leonardo.'),
+  r('created_by', 'art-durer-self-portrait', 'artist-durer', 'Signed and dated by the artist in the inscription on the panel.'),
+  r('created_by', 'art-night-watch', 'artist-rembrandt', 'Signed and dated 1642.'),
+  r('created_by', 'art-pearl-earring', 'artist-vermeer', 'Signed “IVMeer”; dating is based on style.'),
+  r('created_by', 'art-great-wave', 'artist-hokusai', 'Designed by Hokusai; carved and printed by others for the publisher.', 'Designer; carvers and printers uncredited'),
+  r('created_by', 'art-sudden-shower', 'artist-hiroshige', 'Designed by Hiroshige; carved and printed by others for the publisher.', 'Designer; carvers and printers uncredited'),
+  r('created_by', 'art-bridge-in-rain', 'artist-van-gogh', 'Painted by Van Gogh in Paris in 1887.', 'Copy after Hiroshige'),
+  r('created_by', 'art-starry-night', 'artist-van-gogh', 'Painted by Van Gogh at Saint-Rémy in 1889.'),
+  r('created_by', 'art-impression-sunrise', 'artist-monet', 'Signed and dated 1872.'),
+  r('created_by', 'art-demoiselles', 'artist-picasso', 'Painted by Picasso in 1907.'),
+  r('created_by', 'art-jahangir', 'artist-bichitr', 'Signed by Bichitr, who also included a self-portrait.'),
+  r('created_by', 'art-benin-plaques', 'artist-benin-casters', 'Cast by the palace guild of brass casters; individual casters are anonymous.', 'Collective attribution'),
+  r('created_by', 'art-te-hau', 'artist-rukupo', 'Carved under the direction of Raharuhi Rukupō with other Rongowhakaata carvers.', 'Directed by; team of carvers'),
+  r('created_by', 'art-inka-tunic', 'artist-inka-weavers', 'Made in the Inka imperial weaving system; weavers unrecorded.', 'Collective attribution'),
+  r('created_by', 'art-aspects-of-negro-life', 'artist-douglas', 'Painted by Douglas in 1934.'),
+  r('created_by', 'art-migration-series', 'artist-lawrence', 'Painted and captioned by Lawrence in 1940–41.'),
+  r('created_by', 'art-autumn-rhythm', 'artist-pollock', 'Painted by Pollock at Springs in 1950.'),
+
+  /* --------------------------------------- artwork → tradition/movement */
+  r('exemplifies', 'art-doryphoros', 'style-classical-greek', 'The figure is a standard illustration of the Classical balanced pose and proportional system.'),
+  r('exemplifies', 'art-terracotta-army', 'trad-qin-funerary', 'The best-known surviving work of Qin funerary sculpture.'),
+  r('exemplifies', 'art-pakal-lid', 'trad-maya', 'Illustrates Palenque relief style and the unity of image and text.'),
+  r('exemplifies', 'art-angkor-wat', 'trad-angkor', 'The largest and best-preserved Angkorian temple.'),
+  r('exemplifies', 'art-blue-quran', 'trad-islamic-calligraphy', 'An early example of luxury Kufic Qur’an calligraphy.'),
+  r('exemplifies', 'art-travelers', 'style-song-landscape', 'Regarded as a key example of Northern Song monumental landscape.'),
+  r('exemplifies', 'art-benin-plaques', 'trad-benin-court', 'The plaques are among the court’s best-known works.'),
+  r('exemplifies', 'art-te-hau', 'trad-maori-whakairo', 'Illustrates the carved meeting house as a unified work.'),
+  r('exemplifies', 'art-inka-tunic', 'trad-inka', 'Illustrates the importance of tapestry-woven cloth in the Inka state.'),
+  r('exemplifies', 'art-jahangir', 'style-mughal-painting', 'A leading example of Jahangir-period allegorical painting.'),
+  r('exemplifies', 'art-great-wave', 'style-ukiyo-e', 'An emblematic landscape print of the genre.'),
+  r('exemplifies', 'art-sudden-shower', 'style-ukiyo-e', 'A characteristic late landscape print with atmospheric effects.'),
+  r('exemplifies', 'art-mona-lisa', 'mov-renaissance', 'High Renaissance portraiture and use of sfumato.'),
+  r('associated_with', 'art-durer-self-portrait', 'mov-renaissance', 'A Northern Renaissance work made by an artist who had absorbed Italian ideas.'),
+  r('exemplifies', 'art-night-watch', 'style-dutch-golden-age', 'A civic-guard group portrait, a characteristic Dutch commission.'),
+  r('exemplifies', 'art-pearl-earring', 'style-dutch-golden-age', 'A tronie, a distinctively Dutch genre of character study.'),
+  r('exemplifies', 'art-impression-sunrise', 'mov-impressionism', 'The painting whose title gave the movement its name.'),
+  r('exemplifies', 'art-starry-night', 'mov-post-impressionism', 'Expressive colour and rhythmic brushwork typical of Van Gogh’s Post-Impressionism.'),
+  r('associated_with', 'art-bridge-in-rain', 'mov-post-impressionism', 'Painted in Paris in 1887, as Van Gogh was absorbing Impressionist and Japanese influences.'),
+  r('associated_with', 'art-demoiselles', 'mov-cubism', 'Widely seen as a precursor to Cubism rather than itself Cubist.'),
+  r('exemplifies', 'art-aspects-of-negro-life', 'mov-harlem-renaissance', 'A major mural of the Harlem Renaissance.'),
+  r('exemplifies', 'art-autumn-rhythm', 'mov-abstract-expressionism', 'A key example of gestural “action” painting.'),
+  r('associated_with', 'art-migration-series', 'mov-harlem-renaissance', 'Made by a younger Harlem-based artist; Lawrence is usually described as following the Harlem Renaissance generation rather than belonging to it.'),
+
+  /* ------------------------------------------ artist → tradition/movement */
+  r('associated_with', 'artist-polykleitos', 'style-classical-greek', 'A leading sculptor of the High Classical style.'),
+  r('associated_with', 'artist-qin-workshops', 'trad-qin-funerary', 'The workshops that produced the mausoleum’s figures.'),
+  r('associated_with', 'artist-palenque-sculptors', 'trad-maya', 'Represents Palenque’s court workshop.'),
+  r('associated_with', 'artist-khmer-workshops', 'trad-angkor', 'The workshops of Angkor Wat.'),
+  r('associated_with', 'artist-quran-scribes', 'trad-islamic-calligraphy', 'Scribes of an early luxury Qur’an.'),
+  r('associated_with', 'artist-fan-kuan', 'style-song-landscape', 'A leading Northern Song landscape painter.'),
+  r('associated_with', 'artist-benin-casters', 'trad-benin-court', 'The guild that produced the court’s brass works.'),
+  r('associated_with', 'artist-rukupo', 'trad-maori-whakairo', 'Master carver and leader of the Te Hau ki Tūranga project.'),
+  r('associated_with', 'artist-inka-weavers', 'trad-inka', 'Specialist weavers of the Inka state.'),
+  r('associated_with', 'artist-bichitr', 'style-mughal-painting', 'A painter in the Jahangir and Shah Jahan workshops.'),
+  r('associated_with', 'artist-hokusai', 'style-ukiyo-e', 'A leading print designer of the 19th century.'),
+  r('associated_with', 'artist-hiroshige', 'style-ukiyo-e', 'A leading landscape print designer of the 19th century.'),
+  r('associated_with', 'artist-leonardo', 'mov-renaissance', 'A leading figure of the High Renaissance.'),
+  r('associated_with', 'artist-verrocchio', 'mov-renaissance', 'Florentine workshop master of the later 15th century.'),
+  r('associated_with', 'artist-durer', 'mov-renaissance', 'The leading artist of the German Renaissance.'),
+  r('associated_with', 'artist-rembrandt', 'style-dutch-golden-age', 'One of the era’s leading painters and printmakers.'),
+  r('associated_with', 'artist-vermeer', 'style-dutch-golden-age', 'A Delft painter of domestic scenes and tronies.'),
+  r('associated_with', 'artist-monet', 'mov-impressionism', 'Founding member; exhibited at the first show in 1874.'),
+  r('associated_with', 'artist-van-gogh', 'mov-post-impressionism', 'One of the best-known Post-Impressionists.'),
+  r('associated_with', 'artist-picasso', 'mov-cubism', 'Co-originator of Cubism.'),
+  r('associated_with', 'artist-braque', 'mov-cubism', 'Co-originator of Cubism.'),
+  r('associated_with', 'artist-douglas', 'mov-harlem-renaissance', 'The movement’s leading visual artist.'),
+  r('associated_with', 'artist-lawrence', 'mov-harlem-renaissance', 'Grew up in Harlem during and after the movement; later associated with its legacy.'),
+  r('associated_with', 'artist-pollock', 'mov-abstract-expressionism', 'A leading painter of the New York School.'),
+
+  /* --------------------------------------------- artist ↔ artist */
+  r('collaborated_with', 'artist-picasso', 'artist-braque', 'Worked in close dialogue from about 1908 to 1914, developing Cubism together.'),
+  r('studied_under', 'artist-leonardo', 'artist-verrocchio', 'Entered Verrocchio’s Florentine workshop around 1466 and was documented there into the 1470s.'),
+  r('influenced_by', 'artist-van-gogh', 'artist-hiroshige', 'Copied Hiroshige’s Sudden Shower over Shin-Ōhashi Bridge and Atake in oil in 1887.'),
+  r('influenced_by', 'artist-van-gogh', 'artist-hokusai', 'Van Gogh’s letters express admiration for Hokusai’s drawing of waves.'),
+  r('influenced_by', 'artist-pollock', 'artist-picasso', 'Historians note Picasso’s strong influence on Pollock’s work from the late 1930s.'),
+  r('influenced_by', 'art-bridge-in-rain', 'art-sudden-shower', 'A direct copy, enlarged and re-coloured, with a border added.'),
+
+  /* --------------------------------------- movement ↔ movement (lineage) */
+  r('developed_from', 'mov-post-impressionism', 'mov-impressionism', 'Post-Impressionist painters learned from Impressionist colour and brushwork before moving in new directions.'),
+  r('reacted_against', 'mov-post-impressionism', 'mov-impressionism', 'Cézanne and others sought more structure and permanence than Impressionism’s focus on fleeting effects.'),
+  r('developed_from', 'mov-cubism', 'mov-post-impressionism', 'Cubism drew on Cézanne’s late work, honoured in a Paris retrospective in 1907.'),
+  r('influenced_by', 'mov-abstract-expressionism', 'mov-cubism', 'American painters studied Picasso and the Cubists in New York collections and exhibitions.'),
+  r('influenced_by', 'mov-renaissance', 'style-classical-greek', 'Renaissance artists studied ancient sculpture, mostly Roman copies of Greek works.'),
+  /* --------------------------------------------- events shape art */
+    r('shaped_by', 'trad-qin-funerary', 'evt-qin-unification', 'State unification gave the emperor the resources to organise labour on this scale.'),
+    r('shaped_by', 'mov-renaissance', 'evt-gutenberg', 'Printing circulated images and ideas across Europe, particularly in Northern centres.'),
+    r('shaped_by', 'artist-durer', 'evt-gutenberg', 'Dürer worked in Nuremberg’s print economy; his godfather Anton Koberger was a leading printer.'),
+    r('associated_with', 'trad-inka', 'evt-cajamarca', 'The Spanish conquest ended imperial patronage and disrupted state weaving, though Andean textile traditions continued.'),
+    r('shaped_by', 'style-mughal-painting', 'evt-panipat-1526', 'The founding of Mughal rule created the imperial court that sustained the workshops; Persian artists arrived in the Mughal domain via Humayun.'),
+    r('shaped_by', 'style-dutch-golden-age', 'evt-dutch-revolt', 'Independence from Spain and Reformed Church attitudes shaped the market and subjects of Dutch painting.'),
+    r('associated_with', 'trad-maori-whakairo', 'evt-waitangi', 'Many 19th-century carved houses were built in the colonial context that followed the 1840 treaty.'),
+    r('associated_with', 'art-te-hau', 'evt-waitangi', 'Carved in 1842–43, in the early years after the Treaty; its removal in 1867 occurred in a colonial legal and political context.'),
+    r('shaped_by', 'mov-impressionism', 'evt-paint-tube', 'Tube paint made outdoor painting more practicable.'),
+    r('shaped_by', 'mov-impressionism', 'evt-haussmann', 'The rebuilt city and its leisure spaces supplied many of the movement’s subjects.'),
+    r('shaped_by', 'exc-japonisme', 'evt-perry', 'The opening of Japanese ports to trade increased the flow of prints and objects to the West.'),
+    r('shaped_by', 'trad-benin-court', 'evt-benin-1897', 'The 1897 sack dispersed the court’s works and disrupted court patronage.'),
+    r('shaped_by', 'mov-harlem-renaissance', 'evt-great-migration', 'The migration brought the community and audience that made Harlem a cultural centre.'),
+    r('depicts', 'art-migration-series', 'evt-great-migration', 'The series narrates the migration panel by panel.'),
+    r('shaped_by', 'mov-abstract-expressionism', 'evt-wwii', 'Émigré artists and the postwar mood are among the contexts historians cite.'),
+
+    /* --------------------------------------------- cultural exchanges */
+    r('cultural_exchange', 'exc-japonisme', 'style-ukiyo-e', 'Japanese prints were the principal medium of the exchange.'),
+    r('cultural_exchange', 'exc-japonisme', 'mov-impressionism', 'Monet and others collected Japanese prints and admired their compositions.'),
+    r('cultural_exchange', 'exc-japonisme', 'artist-monet', 'Monet’s Giverny house preserves a collection of more than two hundred Japanese prints.'),
+    r('cultural_exchange', 'exc-japonisme', 'artist-van-gogh', 'Van Gogh collected Japanese prints and copied several in oil.'),
+    r('cultural_exchange', 'exc-japonisme', 'artist-hokusai', 'His prints and Manga volumes circulated in Europe.'),
+    r('cultural_exchange', 'exc-japonisme', 'artist-hiroshige', 'His landscape prints were widely collected in Europe.'),
+    r('cultural_exchange', 'exc-mughal-europe', 'style-mughal-painting', 'Mughal artists adapted features of European prints and paintings.'),
+    r('cultural_exchange', 'exc-mughal-europe', 'art-jahangir', 'The painting includes a portrait of James I, based on a European image, and putti.'),
+    r('cultural_exchange', 'exc-mughal-europe', 'artist-bichitr', 'Bichitr incorporated European-derived motifs into his composition.'),
+    r('cultural_exchange', 'exc-dejima', 'style-ukiyo-e', 'Dutch-imported pigments and perspective prints reached Edo printmakers.'),
+    r('cultural_exchange', 'exc-dejima', 'style-dutch-golden-age', 'The Dutch East India Company, enriched by trade, was the link to Japan.'),
+    r('cultural_exchange', 'exc-dejima', 'art-great-wave', 'The print’s Prussian blue reached Japan through trade.'),
+    r('cultural_exchange', 'exc-paris-africa', 'mov-cubism', 'African and Oceanic objects in Paris were part of the context of early Cubism.'),
+    r('cultural_exchange', 'exc-paris-africa', 'artist-picasso', 'Picasso said he saw such objects at the Trocadéro in 1907; the extent of their influence is debated.'),
+    r('cultural_exchange', 'exc-paris-africa', 'art-demoiselles', 'The painting is often discussed in relation to non-European art, with historians debating how and when.'),
+    r('cultural_exchange', 'exc-durer-italy', 'artist-durer', 'Dürer travelled to Venice in 1494–95 and 1505–07.'),
+    r('cultural_exchange', 'exc-durer-italy', 'mov-renaissance', 'The exchange joined Northern print culture to Italian theories of proportion and perspective.'),
+    r('cultural_exchange', 'exc-durer-italy', 'art-durer-self-portrait', 'The self-portrait expresses Italian-influenced ideas of the artist’s status.'),
+]

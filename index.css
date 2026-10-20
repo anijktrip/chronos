@@ -1,0 +1,145 @@
+@font-face { font-family: 'Albert Sans'; src: url('./assets/fonts/AlbertSans-Variable.ttf') format('truetype'); font-weight: 100 900; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Albert Sans'; src: url('./assets/fonts/AlbertSans-Italic-Variable.ttf') format('truetype'); font-weight: 100 900; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Aeonik Pro'; src: url('./assets/fonts/AeonikPro-Light.otf') format('opentype'); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Aeonik Pro'; src: url('./assets/fonts/AeonikPro-Regular.otf') format('opentype'); font-weight: 400 700; font-style: normal; font-display: swap; }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Brand palette: White ECE9E9 · Black 1D2121 · Volt B9ED00 · Lean 7182CB · Heat FF6716 · Grey CECECE */
+  --paper: 236 233 233;
+  --surface: 246 244 244;
+  --sunk: 206 206 206;
+  --ink: 29 33 33;
+  --muted: 70 76 76;
+  --rule: 206 206 206;
+  --night: 29 33 33;
+  --volt: 185 237 0;
+  --lean: 113 130 203;
+  --heat: 255 103 22;
+  --accent: 255 103 22;
+  /* entity accents: deepened Heat / Lean / Volt and neighbours, each ≥ 4.5:1 as text on White and carrying white text as a fill */
+  --c-tradition: 188 58 0;
+  --c-movement: 62 76 160;
+  --c-style: 102 70 176;
+  --c-school: 84 108 0;
+  --c-collective: 140 78 16;
+  --c-artist: 14 112 76;
+  --c-artwork: 176 38 92;
+  --c-event: 150 88 0;
+  --c-exchange: 0 108 128;
+  --c-theme: 128 48 128;
+  --c-place: 86 92 92;
+  --c-period: 58 64 82;
+  /* bright palette fills for type markers, badges, bars, nodes and tiles (dark text sits on top) */
+  --f-tradition: 205 72 0;    /* Heat, deepened so that white text sits on it (≥ 4.5:1) */
+  --f-movement: 90 106 186;   /* Lean, deepened so that white text sits on it (≥ 4.5:1) */
+  --f-style: 125 92 208;      /* deepened so that white text sits on it (≥ 4.5:1) */
+  --f-school: 120 200 235;
+  --f-collective: 255 168 120;
+  --f-artist: 185 237 0;
+  --f-artwork: 255 143 176;
+  --f-event: 255 190 30;
+  --f-exchange: 92 218 176;
+  --f-theme: 214 140 232;
+  --f-place: 116 116 116;
+  --f-period: 104 116 142;
+  --onfill: 15 18 18;
+  --on-movement: 255 255 255; /* text colour on the dark fills (tradition, movement, style, place, period); the rest use --onfill */
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+  color-scheme: light;
+}
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; font-size: 106.25%; }
+  body {
+    @apply bg-paper font-sans text-ink antialiased;
+    font-weight: 400;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+  }
+  h1, h2, h3, h4 { @apply font-display; font-weight: 500; letter-spacing: -0.03em; }
+  ::selection { background: rgb(var(--volt)); color: rgb(var(--ink)); }
+  :focus-visible { outline: 2px solid rgb(var(--ink)); outline-offset: 3px; }
+  .on-dark :focus-visible { outline-color: rgb(var(--volt)); }
+  button { @apply cursor-pointer; }
+  button:disabled { @apply cursor-not-allowed; }
+}
+
+@layer components {
+  /* small descriptor: sentence case, quiet */
+  .label { @apply font-sans text-[0.86rem] text-muted; letter-spacing: 0.005em; }
+  .label-caps { @apply font-sans text-[0.76rem] uppercase text-muted; letter-spacing: 0.1em; }
+  .rule-t { @apply border-t border-rule; }
+  .rule-b { @apply border-b border-rule; }
+  .page-x { @apply mx-auto w-full px-5 sm:px-8 lg:px-14; max-width: 1500px; }
+  /* large screens: generous side space, the content fills the rest (200px each side from 1700px up; 1440px stays narrower so the header still fits) */
+  @media (min-width: 1400px) { .page-x { max-width: none; padding-inline: 120px; } }
+  @media (min-width: 1700px) { .page-x { padding-inline: 200px; } }
+  @media (min-width: 2200px) { .page-x { padding-inline: 240px; } }
+  .display { @apply font-display leading-[1.03]; font-weight: 500; letter-spacing: -0.04em; }
+  .prose-body { @apply max-w-prose text-[1.02rem] leading-[1.72] text-ink/90; font-weight: 400; }
+  .prose-body p + p { @apply mt-5; }
+  /* one size for every page title and its description */
+  .page-title { @apply font-display leading-[1.05]; font-weight: 500; letter-spacing: -0.035em; font-size: clamp(2rem, 3.4vw + 0.6rem, 3.1rem); }
+  /* Greek: Albert Sans has no Greek glyphs, so titles use Aeonik Pro throughout instead of mixing faces */
+  html[lang='el'] .font-display, html[lang='el'] .font-serif, html[lang='el'] .display, html[lang='el'] .page-title { font-family: 'Aeonik Pro', system-ui, sans-serif; letter-spacing: -0.02em; }
+  .page-intro { @apply text-[0.98rem] leading-[1.6] text-ink/85; font-weight: 400; }
+  .lede { @apply text-[1.05rem] leading-[1.6] text-ink/85 sm:text-[1.18rem]; font-weight: 400; }
+  .btn { @apply inline-flex min-h-[48px] items-center justify-center gap-2 rounded-full border border-ink px-6 text-[0.95rem] transition-all duration-200; }
+  .btn-solid { @apply bg-ink text-paper hover:border-volt hover:bg-volt hover:text-ink; }
+  .btn-ghost { @apply bg-transparent text-ink hover:bg-ink hover:text-paper; }
+  .on-dark .btn { @apply border-white; }
+  .on-dark .btn-solid { @apply border-volt bg-volt text-ink hover:border-white hover:bg-white; }
+  .on-dark .btn-ghost { @apply text-white hover:bg-white hover:text-ink; }
+  .chip {
+    @apply inline-flex min-h-[40px] items-center gap-2 rounded-full border border-rule bg-paper px-4 text-[0.88rem] text-ink transition-colors duration-150 hover:border-ink;
+  }
+  .chip[aria-pressed='true'], .chip[aria-current='true'] { @apply border-ink bg-volt text-ink; }
+  /* type filter chips: the type's own colour and its name; a dark ring shows it is on */
+  .chip.chip-type { @apply border-transparent; }
+  .chip.chip-type[aria-pressed='true'] { @apply border-ink; }
+  .chip-type:focus-visible { outline-width: 1.5px; outline-offset: 2px; }
+  .on-dark .chip { @apply border-white/20 bg-transparent text-white hover:border-white; }
+  .on-dark .chip[aria-pressed='true'] { @apply border-volt bg-volt text-ink; }
+  .link-u { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; text-decoration-color: rgb(var(--ink) / .3); transition: text-decoration-color .2s; }
+  .link-u:hover { text-decoration-color: currentColor; }
+  .field { @apply min-h-[48px] w-full rounded-xl border border-rule bg-paper px-4 text-[0.95rem] text-ink placeholder:text-muted focus:border-ink; }
+  .sr-only-focusable:not(:focus):not(:focus-within) { @apply sr-only; }
+}
+
+/* ---------- motion ---------- */
+@keyframes page-in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes draw { from { stroke-dashoffset: var(--len, 200); } to { stroke-dashoffset: 0; } }
+@keyframes pop { from { opacity: 0; transform: scale(0.97); } to { opacity: 1; transform: none; } }
+@keyframes shake-soft { 0%,100% { transform: translateX(0); } 25% { transform: translateX(-3px); } 75% { transform: translateX(3px); } }
+@keyframes drift { from { transform: translate3d(0,0,0); } to { transform: translate3d(0,-10px,0); } }
+
+.page-enter { animation: page-in .5s var(--ease) both; }
+.fade-in { animation: fade-in .35s var(--ease) both; }
+.pop-in { animation: pop .22s var(--ease) both; }
+.shake { animation: shake-soft .28s var(--ease); }
+
+.reveal { opacity: 0; transform: translateY(16px); transition: opacity .8s var(--ease), transform .8s var(--ease); transition-delay: var(--d, 0ms); }
+.reveal.is-in { opacity: 1; transform: none; }
+
+.card-hover { transition: transform .45s var(--ease); }
+.card-hover:hover { transform: translateY(-4px); }
+.arrow-nudge { transition: transform .25s var(--ease); }
+.group:hover .arrow-nudge, a:hover > .arrow-nudge { transform: translateX(4px); }
+
+.img-zoom img, .img-zoom .plate { transition: transform 1.2s var(--ease); }
+.img-zoom:hover img, .img-zoom:hover .plate { transform: scale(1.04); }
+
+.edge-draw { stroke-dasharray: var(--len, 200); animation: draw .7s var(--ease) both; }
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; scroll-behavior: auto !important; }
+  .reveal { opacity: 1; transform: none; }
+  .edge-draw { stroke-dasharray: none; }
+}
